@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 gallery5823:
   - url: ../assets/images/5823-1.jpg
     image_path: ../assets/images/5823-1.jpg
@@ -42,8 +43,6 @@ gallery7594:
     title: "Image 3 title caption"
 ---
 
-## Overview
-
 ## FIRST Robotics
 
 ### Team 5823 ACE
@@ -70,6 +69,21 @@ gallery7594:
 - Won Highest Rookie Seed Award and Rookie Inspiration Award in Finger Lakes Regional
 {% include gallery id="gallery7594" %}
 
-## Creative writing
+## Writing
+
+### Personal Writing
+- Published over 300 essays in 65 newspaper/magazines on topics including STEM education and social issues
+- Personal special editions were launched in 8 magazines
+- Yuhua Cup Top 10 Youth Writers in China
+
+### Publications
+- Published essay collection: "No Game, No Life" (5000 copies by National Literature and History Press)
+- Published Sci-Fi collection: "Destination: Light & Warmth" (6000 copies by National United Press)
+
+### Recognition
+Over 20 national awards, including: 
+- Winner of the 17th China Juvenile Writer Writing Competition
+- Winner of the 4th China Youth Writer Writing Competition
+- Winner of the 9th National Bingxin Youth Writer Writing Competition
 
 
