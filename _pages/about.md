@@ -3,42 +3,42 @@ permalink: /about/
 title: "About"
 toc: true
 gallery5823:
-  - url: {{site.baseurl}}/assets/images/5823-1.jpg
-    image_path: {{site.baseurl}}/assets/images/5823-1.jpg
+  - url: /assets/images/5823-1.jpg
+    image_path: /assets/images/5823-1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: {{site.baseurl}}/assets/images/5823-2.jpg
-    image_path: {{site.baseurl}}/assets/images/5823-2.jpg
+  - url: /assets/images/5823-2.jpg
+    image_path: /assets/images/5823-2.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: {{site.baseurl}}/assets/images/5823-3.jpg
-    image_path: {{site.baseurl}}/assets/images/5823-3.jpg
+  - url: /assets/images/5823-3.jpg
+    image_path: /assets/images/5823-3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 gallery7529:
-  - url: {{site.baseurl}}/assets/images/7529-1.jpg
-    image_path: {{site.baseurl}}/assets/images/7529-1.jpg
+  - url: /assets/images/7529-1.jpg
+    image_path: /assets/images/7529-1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: {{site.baseurl}}/assets/images/7529-2.jpg
-    image_path: {{site.baseurl}}/assets/images/7529-2.jpg
+  - url: /assets/images/7529-2.jpg
+    image_path: /assets/images/7529-2.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: {{site.baseurl}}/assets/images/7529-3.jpg
-    image_path: {{site.baseurl}}/assets/images/7529-3.jpg
+  - url: /assets/images/7529-3.jpg
+    image_path: /assets/images/7529-3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 gallery7594:
-  - url: {{site.baseurl}}/assets/images/7594-1.jpg
-    image_path: {{site.baseurl}}/assets/images/7594-1.jpg
+  - url: /assets/images/7594-1.jpg
+    image_path: /assets/images/7594-1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: {{site.baseurl}}/assets/images/7594-2.jpg
-    image_path: {{site.baseurl}}/assets/images/7594-2.jpg
+  - url: /assets/images/7594-2.jpg
+    image_path: /assets/images/7594-2.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: {{site.baseurl}}/assets/images/7594-3.jpg
-    image_path: {{site.baseurl}}/assets/images/7594-3.jpg
+  - url: /assets/images/7594-3.jpg
+    image_path: /assets/images/7594-3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
