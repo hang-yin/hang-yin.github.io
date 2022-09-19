@@ -1,11 +1,14 @@
 ---
 title: "Pen Challenge"
 author_profile: true
-kay: 1
-excerpt: "Through a depth camera and a 4DoF robotic arm, I developed a vision and motion pipeline to locate and grasp a pen out of my hand."
+key: 10
+excerpt: "Computer vision, Robot manipulation, OpenCV, Python"
 header:
   image: /assets/images/pen_challenge.jpg
   teaser: /assets/images/pen_challenge.jpg
+---
+
+{% comment %} 
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -13,7 +16,7 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
----
+{% endcomment %} 
 
 This project aims at enabling the PincherX 100 Robot Arm to grab a pen that is held in front of it. 
 
@@ -35,3 +38,5 @@ we can move on to the robot control pipeline.
 ## Robot control
 To grab the pen given its 3D coordinate in space (from the camera), 
 we use open loop control to move the gripper towards the pen and grab it.
+
+[Github repo](https://github.com/hang-yin/Pen_Challenge)
