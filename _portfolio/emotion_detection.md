@@ -1,10 +1,9 @@
 ---
-title: "Graph Convolutional Network for Sentiment Analysis"
+title: "iExpressionNet"
 author_profile: true
 key: 2
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
 header:
-  image: /assets/images/emotion_detection.jpg
   teaser: /assets/images/emotion_detection.jpg
 ---
 

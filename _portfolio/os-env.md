@@ -4,7 +4,6 @@ author_profile: true
 key: 3
 excerpt: "React, Node.js, JavaScript"
 header:
-  image: /assets/images/os-env.jpg
   teaser: /assets/images/os-env.jpg
 ---
 

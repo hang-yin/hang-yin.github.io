@@ -4,7 +4,6 @@ author_profile: true
 key: 1
 excerpt: "NLP, edge-conditioned GCN, Tensorflow"
 header:
-  image: /assets/images/nlp_pipeline.jpg
   teaser: /assets/images/nlp_pipeline.jpg
 ---
 
