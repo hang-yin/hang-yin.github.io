@@ -1,3 +1,5 @@
 main:
   - title: "More about me"
     url: /about/
+  - title: "Resume"
+    url: https://github.com/hang-yin/portfolio/blob/gh-pages/assets/YH-resume.pdf
