@@ -35,4 +35,9 @@ The general dataset we are using is FER-13 with 7 classes (0=Angry, 1=Disgust, 2
 - [https://github.com/atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection)
 - Our video demo at [here](https://www.youtube.com/watch?v=9ApwyVobA5A).
 
+## Video Demo
+<embed type="video/webm" src="{{site.baseurl}}/assets/images/iExpressionNet-video.mp4" width="100%"> 
+
+## Github Repo
+
 [Github repo](https://github.com/peizhiliu168/iExpressionNet)
