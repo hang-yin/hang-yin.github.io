@@ -31,8 +31,8 @@ There will be three main parts to the pipline we want to create. Facial detectio
 The general dataset we are using is FER-13 with 7 classes (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The training set contains 28,709 examples. The public test set contains 3,589 examples, and the private test set contains another 3,589 examples. You can download the dataset at Kaggle: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 ## References
-- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-- https://github.com/atulapra/Emotion-detection
-- Our video demo at https://www.youtube.com/watch?v=9ApwyVobA5A
+- [https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+- [https://github.com/atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection)
+- Our video demo at [here](https://www.youtube.com/watch?v=9ApwyVobA5A).
 
 [Github repo](https://github.com/peizhiliu168/iExpressionNet)
