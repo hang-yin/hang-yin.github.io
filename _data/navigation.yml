@@ -2,4 +2,4 @@ main:
   - title: "More about me"
     url: /about/
   - title: "Resume"
-    url: {{site.baseurl}}/assets/YH-resume.pdf
+    url: https://raw.githubusercontent.com/hang-yin/portfolio/gh-pages/assets/YH-resume.pdf
