@@ -76,7 +76,7 @@ gallery7594:
 - Personal special editions were launched in 8 magazines
 - Yuhua Cup Top 10 Youth Writers in China
 
-### Publications
+### Publication
 - Published essay collection: "No Game, No Life" (5000 copies by National Literature and History Press)
 - Published Sci-Fi collection: "Destination: Light & Warmth" (6000 copies by National United Press)
 
