@@ -1,7 +1,7 @@
 ---
-title: "Lifecapsule Mobile App"
+title: "Mobile: Lifecapsule App"
 author_profile: true
-key: 6
+key: 11
 excerpt: "React Native, Javascript"
 header:
   teaser: /assets/images/lifecapsule.jpg

@@ -1,7 +1,7 @@
 ---
-title: "Handwritten Text Recognition with PSF"
+title: "ML: Handwritten Text Recognition with PSF"
 author_profile: true
-key: 7
+key: 3
 excerpt: "Path Signature Feature, CNN, PyTorch"
 header:
   teaser: /assets/images/htr-iam.jpg

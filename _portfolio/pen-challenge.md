@@ -1,7 +1,7 @@
 ---
 title: "Pen Challenge"
 author_profile: true
-key: 10
+key: 6
 excerpt: "Computer vision, Robot manipulation, OpenCV, Python"
 header:
   teaser: /assets/images/pen_challenge.jpg

@@ -1,7 +1,7 @@
 ---
-title: "TreeHealth Mobile App"
+title: "Mobile: TreeHealth App"
 author_profile: true
-key: 5
+key: 10
 excerpt: "React Native, Javascript"
 header:
   teaser: /assets/images/treehealth.jpg
