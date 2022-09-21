@@ -21,7 +21,11 @@ LifeCapsule is an app that helps people record their daily positivity and find t
 
 The app records how good the user’s day was with random daily questions and automatically creates a weekly summary that displays interesting trends and statistics about the user’s week.
 
+## Demo
 You can find the deployed version [here](https://lifecapsuleservices.web.app/index.html).
 
-
+## Source code
 [Github repo](https://github.com/394-s21/cs394blue)
+
+## Group members
+Hang Yin, Darryl Forbes, Zain Bashey, Si-woo Park

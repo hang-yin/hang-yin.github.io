@@ -20,3 +20,6 @@ sidebar:
 Designed and built a quadrotor for autonomous flight. Implemented code for IMU, joystick control, PID control, and Vive sensor integration. 
 
 [Github repo](https://github.com/EricYYang2022/CS410-Quad04)
+
+## Group members
+Hang Yin, Eric Yang

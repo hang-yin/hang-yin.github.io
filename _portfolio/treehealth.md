@@ -27,7 +27,11 @@ TreeHealth is a mobile app that allows you to observe collected data from your r
 - Mark missing data as red points
 - Checkboxes to show/hide certain types of data
 
+## Demo
 You can find the deployed version [here](https://treehealth-dfcd1.web.app/).
 
-
+## Source code
 [Github repo](https://github.com/394-s21/treehealth)
+
+## Group members
+Hang Yin, Darryl Forbes, Zain Bashey, Si-woo Park

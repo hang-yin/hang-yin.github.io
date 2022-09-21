@@ -23,4 +23,11 @@ Working well in networked communities requires that its members learn to access 
 ## Design Argument
 We introduce Orchestration Scripting Environment, a block-based authoring environment that supports the encoding of learning situations and support strategies into machine representations using available data points across a networked learning community. Results from a pilot study show that affordances such as scaffolding questions, reflect & expand prompt, and a visual workspace enable mentors to describe a learning situation and its corresponding support strategies for a networked community.
 
+## Demo
+Check out our deployed version [here](https://orchestrationscript.web.app/). 
+
+## Source code
 [Github repo](https://github.com/NUDelta/OrchestrationScriptPrototype)
+
+## Group members
+Hang Yin, Jason Friedman
