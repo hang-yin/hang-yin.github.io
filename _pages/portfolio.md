@@ -27,4 +27,7 @@ I am a student at Northwestern University pursuing a Master of Science in Roboti
   </tbody>
 </table>
 
+### Relevant coursework: 
+Embedded Systems in Robotics (ROS), Robotic Manipulation, Quadrotor Design and Control, Swarm Robotics, Deep Learning, Machine Learning, Agile Software Development
+
 # Projects
