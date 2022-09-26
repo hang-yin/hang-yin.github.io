@@ -48,6 +48,9 @@ In a larger study, it would be interesting to see whether the scripts from the v
 ## Demo
 Check out our deployed version [here](https://orchestrationscript.web.app/). 
 
+## Link to paper
+Check out our paper [here](https://raw.githubusercontent.com/hang-yin/portfolio/gh-pages/assets/os-env_chi-2022-src.pdf).
+
 ## Source code
 [Github repo](https://github.com/NUDelta/OrchestrationScriptPrototype)
 
