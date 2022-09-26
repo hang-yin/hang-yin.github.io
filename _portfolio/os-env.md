@@ -1,7 +1,7 @@
 ---
 title: "Web: Orchestration Scripting Environment"
 author_profile: true
-key: 9
+key: 6
 excerpt: "React, Node.js, JavaScript"
 header:
   teaser: /assets/images/os-env.jpg
@@ -17,11 +17,33 @@ sidebar:
     text: "Reuters try PR stupid commenters should isn't a business model"
 {% endcomment %} 
 
-## Problem Statement
-Working well in networked communities requires that its members learn to access the support opportunities available for their needs, but this can be challenging for novices who have not worked in this way before. Mentors play an important role in teaching their mentees effective ways to get support from the network, but have limited awareness of how their mentees are accessing support across the network. Existing tools cannot help because they are designed to track task status or suggest predetermined actions rather than the effective ways of working in the community. 
+![os-env](https://github.com/hang-yin/portfolio/blob/gh-pages/assets/images/os-env.jpg?raw=true)
 
-## Design Argument
-We introduce Orchestration Scripting Environment, a block-based authoring environment that supports the encoding of learning situations and support strategies into machine representations using available data points across a networked learning community. Results from a pilot study show that affordances such as scaffolding questions, reflect & expand prompt, and a visual workspace enable mentors to describe a learning situation and its corresponding support strategies for a networked community.
+## Motivation
+Modern work and learning communities have become increasingly networked. However, most new members of networked communities lack effective strategies for recognizing when they face a work or learning need, how the network (e.g., venues, tools, peers) can support them, and how to plan their work around those support opportunities.
+
+## Conceptual Contribution
+Provide mentors with a tool that is able to access data on venues, tools, and social structures in a community and supports constructing learning situations with these data. 
+
+## Research Question
+How does providing mentors with an expression environment with affordances for expressing learning situations in terms of the venues, tools, and social structures in the community enable them to translate their understanding of a learning situation into machine executable code?
+
+## Methods
+There were 4 participants in our study. Each participant spent 1 hour writing scripts in the experimental condition and 1 hour writing scripts in the control condition. The experimental condition contained Scaffolding questions, a Visual programming interface, and Reflect and Expand prompts as can be seen in Figure P. The control condition contained a sidebar for data navigation, a list of data corresponding to each tab in the navigation bar, and a text based programming editor as can be seen in Figure S. Participants in the experimental condition were told to follow the prompts. Participants in the control condition were instructed to express a script to detect a situation when their mentees were working ineffectively and corresponding strategies to help their students practice more effective strategies. They were told they could add multiple situation-strategy pairs, and multiple strategies per situation. Participants in both the experimental and control groups were given a tutorial of how to use the tool before they wrote their scripts.
+
+## Results and Discussion
+
+### Scaffolding Question
+People struggle to use the past to help them to take actions in the future. Scaffolding questions can ground people in past examples, while helping them reflect on how they can proactively detect situations in the future, and respond to them more effectively.
+
+### Visual Construction Interface
+We hypothesized that a mix of top down and bottom up construction would lead to less under-scoping in expressing situations. However, we currently do not have enough evidence to support this. 
+
+### Reflect and Expand Prompt
+Providing concrete people, venues, and tools of a community to script writers in that community and reflection prompts to consider them can help script writers expand their scripts to be more in terms of the structure and resources a community has to offer. This benefits the script writer because it allows them to take advantage of concrete resources the community can provide to its members and express scripts which detect and respond at natural moments in the cadence of the processes of the community. 
+
+## Future Directions
+In a larger study, it would be interesting to see whether the scripts from the visual interface experimental condition contained more strategies which are not just the opposite of the situation than the control text based programming language condition. Instead, perhaps more scripts in the visual interface would contain nuanced strategies suggesting concrete ways to use resources in the community when an ineffective strategy is detected. The visual interface might also be helpful for fine-tuning existing abstract ineffective ways of working to specific project groups and SIG. 
 
 ## Demo
 Check out our deployed version [here](https://orchestrationscript.web.app/). 
@@ -29,5 +51,5 @@ Check out our deployed version [here](https://orchestrationscript.web.app/).
 ## Source code
 [Github repo](https://github.com/NUDelta/OrchestrationScriptPrototype)
 
-## Group members
+## Group Members
 Hang Yin, Jason Friedman

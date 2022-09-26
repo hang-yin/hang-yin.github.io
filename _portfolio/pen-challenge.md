@@ -1,7 +1,7 @@
 ---
-title: "Pen Challenge"
+title: "Pen Recognition and Control"
 author_profile: true
-key: 6
+key: 4
 excerpt: "Computer vision, Robot manipulation, OpenCV, Python"
 header:
   teaser: /assets/images/pen_challenge.jpg
@@ -18,6 +18,17 @@ sidebar:
 {% endcomment %} 
 
 This project aims at enabling the PincherX 100 Robot Arm to grab a pen that is held in front of it. 
+
+## Video Demo
+<iframe
+    width="100%"
+    height="50px"
+    src="https://www.youtube.com/embed/3gHIJdR31I4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ## Vision pipeline
 To help the PincherX 100 Robot Arm to grab a pen, we take advantage 

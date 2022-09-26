@@ -19,6 +19,17 @@ sidebar:
 
 This project focuses on exploring deep learning to detect facial expressions and fine-tuning the model with specific user dataset.
 
+## Video Demo
+<iframe
+    width="100%"
+    height="50px"
+    src="https://www.youtube.com/embed/9ApwyVobA5A"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 ## Introduction 
 The proposed project will focus on utilizing deep learning to detect facial expressions in humans. While there have been many projects in the past that dealt with expression classification: [https://github.com/atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection) and [https://tinyurl.com/1m4km78w](https://tinyurl.com/1m4km78w), one motif we noticed throughout examining these projects is that the training accuracy on the expression classifier is often much higher than the validation accuracy. In other words, it may be the case that these models have a hard time generalizing expressions among different faces. This is perhaps due to the large variety of different faces present in the dataset.
 
@@ -33,9 +44,6 @@ The general dataset we are using is FER-13 with 7 classes (0=Angry, 1=Disgust, 2
 ## References
 - [https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 - [https://github.com/atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection)
-
-## Video Demo
-<embed type="video/webm" src="{{site.baseurl}}/assets/images/iExpressionNet-video.mp4" width="100%" height="50px"> 
 
 ## Source code
 [Github repo](https://github.com/peizhiliu168/iExpressionNet)
