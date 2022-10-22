@@ -1,5 +1,5 @@
 ---
-title: "ML: Graph Convolutional Network for Sentiment Analysis"
+title: "ML: GCN for Sentiment Analysis"
 toc: true
 author_profile: true
 key: 1

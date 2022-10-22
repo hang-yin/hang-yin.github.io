@@ -62,6 +62,10 @@ I am a student at Northwestern University pursuing a Master of Science in Roboti
   </tbody>
 </table>
 
+### Current coursework: 
+
+Embedded Systems in Robotics (ROS); Robotic Manipulation; Microprocessor System Design; Theory of Machines, Dynamics 
+
 ## FIRST Robotics
 
 ### Team 5823 ACE
