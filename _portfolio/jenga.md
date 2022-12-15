@@ -1,5 +1,5 @@
 ---
-title: "Jenga Assistance"
+title: "Robot Jenga Assistant"
 author_profile: true
 key: 1
 excerpt: "ROS2, MoveIt, OpenCV, Machine Learning"

@@ -1,7 +1,7 @@
 ---
 title: "Pen Recognition and Control"
 author_profile: true
-key: 4
+key: 7
 excerpt: "Computer vision, Robot manipulation, OpenCV, Python"
 header:
   teaser: /assets/images/pen_challenge.jpg

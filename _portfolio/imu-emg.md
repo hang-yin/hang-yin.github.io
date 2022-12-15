@@ -1,7 +1,7 @@
 ---
 title: "IMU Controlled Robot Arm and EMG controlled Gripper"
 author_profile: true
-key: 10
+key: 6
 excerpt: "C, Embedded System, IMU, EMG"
 header:
   teaser: /assets/images/imu-emg.jpg

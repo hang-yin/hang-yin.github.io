@@ -1,7 +1,7 @@
 ---
 title: "Swarm Algorithms"
 author_profile: true
-key: 3
+key: 8
 toc: true
 excerpt: "Distributed control, state machine, Docker, Python"
 header:
