@@ -4,7 +4,7 @@ author_profile: true
 key: 5
 excerpt: "Raspberry Pi, PID control, C++"
 header:
-  teaser: /assets/images/quadrotor.gif
+  teaser: /assets/images/quadrotor.jpg
 ---
 
 {% comment %} 
