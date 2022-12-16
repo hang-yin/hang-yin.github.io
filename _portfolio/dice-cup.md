@@ -4,7 +4,7 @@ author_profile: true
 key: 9
 excerpt: "Lagrangian Dynamics, SymPy"
 header:
-  teaser: /assets/images/dice-cup.png
+  teaser: /assets/images/314.gif
 ---
 
 {% comment %} 

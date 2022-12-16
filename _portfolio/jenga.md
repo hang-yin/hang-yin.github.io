@@ -4,7 +4,7 @@ author_profile: true
 key: 1
 excerpt: "ROS2, MoveIt, OpenCV, Machine Learning"
 header:
-  teaser: /assets/images/jenga.png
+  teaser: /assets/images/jenga.gif
 ---
 
 {% comment %} 

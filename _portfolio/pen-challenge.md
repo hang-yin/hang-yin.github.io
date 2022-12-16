@@ -4,7 +4,7 @@ author_profile: true
 key: 7
 excerpt: "Computer vision, Robot manipulation, OpenCV, Python"
 header:
-  teaser: /assets/images/pen_challenge.jpg
+  teaser: /assets/images/pen.gif
 ---
 
 {% comment %} 

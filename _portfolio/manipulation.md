@@ -4,7 +4,7 @@ author_profile: true
 key: 4
 excerpt: "Trajectory planning, Feedforward control"
 header:
-  teaser: /assets/images/manipulation.jpg
+  teaser: /assets/images/449.gif
 ---
 
 {% comment %} 
