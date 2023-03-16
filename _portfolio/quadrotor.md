@@ -1,7 +1,7 @@
 ---
 title: "Quadrotor Control"
 author_profile: true
-key: 5
+key: 2
 excerpt: "Raspberry Pi, PID control, C++"
 header:
   teaser: /assets/images/quadrotor.jpg
