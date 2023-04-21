@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Hang Yin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Student at Northwestern University pursuing a Master of Science in Robotics degree."
+  bio    : "MS in Robotics @ Northwestern"
   links:
     - label: "Evanston, IL"
       icon: "fas fa-fw fa-map-marker-alt"

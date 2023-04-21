@@ -43,7 +43,7 @@ gallery7594:
     title: "Image 3 title caption"
 ---
 
-I am a student at Northwestern University pursuing a Master of Science in Robotics degree. My interests range from Robotics to Software Engineering. I am eager to explore opportunities and learn through challenges.
+Hi there! I'm Hang, a graduate student at Northwestern University pursuing a Master of Science in Robotics degree with a focus on machine learning, computer vision, and control systems. I have a solid foundation in programming languages including Python, C++, C, and JavaScript, and am proficient in frameworks like ROS2 and PyTorch. I also have experience with embedded systems and have implemented algorithms for robotics projects such as quad-rotor control and mobile manipulation. My recent projects involve implementing Feature-based SLAM on a TurtleBot, ChatGPT-powered Robot Chef, and Edge-conditioned GCN for Sentiment Analysis. I am actively seeking full-time opportunities in the field of robotics and am excited to explore challenging projects that leverage my skills and interests.
 
 ## Education
 
@@ -64,7 +64,7 @@ I am a student at Northwestern University pursuing a Master of Science in Roboti
 
 ### Current coursework: 
 
-Embedded Systems in Robotics (ROS); Robotic Manipulation; Microprocessor System Design; Theory of Machines, Dynamics 
+Optimal Control & Active Learning; Advanced Mechatronics; Computer Vision
 
 ## FIRST Robotics
 
