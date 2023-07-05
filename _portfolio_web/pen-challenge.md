@@ -1,7 +1,7 @@
 ---
 title: "Pen Recognition and Control"
 author_profile: true
-key: 7
+key: 20
 excerpt: "Computer vision, Manipulation, OpenCV"
 header:
   teaser: /assets/images/pen.gif

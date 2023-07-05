@@ -7,16 +7,6 @@ header:
   teaser: /assets/images/visual-odom1.gif
 ---
 
-{% comment %} 
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-{% endcomment %} 
-
 This project simulates a dice colliding in a spinning cup by modeling the Lagrangian dynamics in this 6 DoF system.
 
 ## Video Demo
