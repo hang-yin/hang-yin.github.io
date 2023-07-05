@@ -107,9 +107,69 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: portfolio_manipulation
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_perception_nav
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_ML
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_mechatronics
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_web
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_other
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_manipulation:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_perception_nav:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_ML:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_mechatronics:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_web:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_other:
     output: true
     permalink: /:collection/:path/
 
