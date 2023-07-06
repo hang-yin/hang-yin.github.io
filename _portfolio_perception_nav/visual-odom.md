@@ -5,6 +5,7 @@ key: 1
 excerpt: "Computer Vision, OpenCV"
 header:
   teaser: /assets/images/visual-odom1.gif
+classes: wide
 ---
 
 This project simulates a dice colliding in a spinning cup by modeling the Lagrangian dynamics in this 6 DoF system.

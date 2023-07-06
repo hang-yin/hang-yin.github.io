@@ -5,6 +5,7 @@ key: 10
 excerpt: "ROS2, MoveIt, OpenCV, Machine Learning"
 header:
   teaser: /assets/images/jenga.gif
+classes: wide
 ---
 
 {% comment %} 
@@ -77,7 +78,7 @@ This project is meant to turn a Franka Emika Panda arm into a Jenga assistant! I
    - The environment around the robot.
    - This allows us to add in the table, camera, and jenga tower to avoid collisions .
 
-![MoveIt Visual]({{ site.url }}{{ site.baseurl }}/assets/images/jenga-moveit.png)
+![MoveIt Visual]({{ site.url }}{{ site.baseurl }}/assets/images/jenga-moveit1.png)
 
 
 

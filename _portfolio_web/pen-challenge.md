@@ -5,6 +5,7 @@ key: 20
 excerpt: "Computer vision, Manipulation, OpenCV"
 header:
   teaser: /assets/images/pen.gif
+classes: wide
 ---
 
 {% comment %} 

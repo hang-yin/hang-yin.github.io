@@ -5,6 +5,7 @@ key: 4
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
 header:
   teaser: /assets/images/emotion_detection.jpg
+classes: wide
 ---
 
 {% comment %} 

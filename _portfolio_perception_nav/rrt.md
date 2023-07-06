@@ -5,6 +5,7 @@ key: 10
 excerpt: "Path planning, Python"
 header:
   teaser: /assets/images/RRT_arbitrary_obstacle.jpg
+classes: wide
 ---
 
 Implementation of Rapidly-Exploring Random Tree (RRT), a path planning algorithm developed by Steven LaValle (see reference).

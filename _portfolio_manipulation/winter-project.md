@@ -6,6 +6,7 @@ key: -1
 excerpt: "ChatGPT, CLIP, MediaPipe, LSTM, ROS2, MoveIt"
 header:
   teaser: /assets/images/winter_gif.gif
+classes: wide
 ---
 
 This project is a system that enables voice-controlled, robot-assisted cooking. The system utilizes a custom Alexa skill to process user voice commands and a Flask app to generate recipe steps through ChatGPT. Object detection using a RealSense camera and the CLIP model allows the system to recognize objects in the kitchen and adjust recipe steps accordingly. The robot arm executes the steps autonomously, while a hand-action recognition model based on MediaPipe provides the necessary feedback to ensure collaboration between human and robot in completing the cooking tasks. This system contributes to home automation technology and showcases the integration of machine learning, computer vision, and robotics in real-world applications.
@@ -91,6 +92,8 @@ The below video demonstrates the hand action recognition model in action.
 ## Motion Module
 
 The motion module of the system is built on top of a custom Python MoveIt API that my team and I built for controlling the Franka Emika Panda robot arm in a [previous project](https://hang-yin.github.io/portfolio/portfolio/jenga/). The API provides an interface to control the robot arm with a simple Python script by specifying Cartesian positions. In this current project, I used the same API to control the robot arm to perform the various actions required in the recipe. For example, given the position of an ingredient, the API can move the end effector of the robot arm to that position and perform the appropriate action, such as picking up or placing the ingredient. The API also provides collision detection and avoidance capabilities, ensuring the robot arm does not collide with any other objects in the workspace. By building on top of this existing API, I was able to rapidly prototype the motion module of the system and focus on the integration with the other modules.
+
+![motion-module]({{ site.url }}{{ site.baseurl }}/assets/images/motion-module.png)
 
 
 ## Source code

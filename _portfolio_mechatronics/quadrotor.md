@@ -5,6 +5,7 @@ key: 2
 excerpt: "Raspberry Pi, PID control, C++"
 header:
   teaser: /assets/images/quadrotor.jpg
+classes: wide
 ---
 
 {% comment %} 

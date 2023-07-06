@@ -6,6 +6,7 @@ key: 11
 excerpt: "React, Node.js, JavaScript"
 header:
   teaser: /assets/images/os-env.jpg
+classes: wide
 ---
 
 {% comment %} 

@@ -5,6 +5,7 @@ key: 5
 excerpt: "Trajectory planning, Feedforward control"
 header:
   teaser: /assets/images/449.gif
+classes: wide
 ---
 
 {% comment %} 

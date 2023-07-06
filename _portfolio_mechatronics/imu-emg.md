@@ -5,6 +5,7 @@ key: 6
 excerpt: "C, Embedded System, IMU, EMG"
 header:
   teaser: /assets/images/imu-emg.jpg
+classes: wide
 ---
 
 {% comment %} 

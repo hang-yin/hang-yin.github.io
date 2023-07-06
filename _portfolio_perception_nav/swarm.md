@@ -6,6 +6,7 @@ toc: true
 excerpt: "Distributed control, state machine, Docker, Python"
 header:
   teaser: /assets/images/swarm-tn.jpg
+classes: wide
 ---
 
 {% comment %} 

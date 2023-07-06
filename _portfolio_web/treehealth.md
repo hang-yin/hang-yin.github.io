@@ -5,6 +5,7 @@ key: 12
 excerpt: "React Native, Javascript"
 header:
   teaser: /assets/images/treehealth.jpg
+classes: wide
 ---
 
 {% comment %} 

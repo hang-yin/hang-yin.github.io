@@ -5,6 +5,7 @@ key: 6
 excerpt: "ROS2, haptics control"
 header:
   teaser: /assets/images/omnids.gif
+classes: wide
 ---
 
 This project is currently in-progress. Here's a list of tasks I've been working on.
