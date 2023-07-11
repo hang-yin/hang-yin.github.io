@@ -1,5 +1,5 @@
 ---
-title: "Swarm Algorithms"
+title: "Swarm Shape and Behavior Control"
 author_profile: true
 key: 8
 toc: true
