@@ -4,7 +4,7 @@ author_profile: true
 key: 4
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
 header:
-  teaser: /assets/images/emotion_detection.jpg
+  teaser: /assets/images/emotion_detection.png
 classes: wide
 ---
 

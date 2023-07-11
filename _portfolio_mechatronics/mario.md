@@ -4,7 +4,7 @@ author_profile: true
 key: 3
 excerpt: "C, PCB design, CAD, Motor Control, CV"
 header:
-  teaser: /assets/images/mario-luigi.jpg
+  teaser: /assets/images/mario-luigi.png
 classes: wide
 ---
 
