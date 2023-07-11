@@ -5,7 +5,7 @@ key: 8
 toc: true
 excerpt: "Distributed control, state machine, Docker, Python"
 header:
-  teaser: /assets/images/swarm-tn.jpg
+  teaser: /assets/images/swarm-tn.png
 classes: wide
 ---
 

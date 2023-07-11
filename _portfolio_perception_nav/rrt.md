@@ -1,5 +1,5 @@
 ---
-title: "RRT for path planning with obstacles"
+title: "Rapidly-Exploring Random Tree for path planning"
 author_profile: true
 key: 10
 excerpt: "Path planning, Python"
