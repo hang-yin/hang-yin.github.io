@@ -54,6 +54,9 @@ Hi there! I'm Hang, a graduate student at Northwestern University pursuing a Mas
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
 <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls Internship</td>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
     </tr>
   </tbody>
 </table>
