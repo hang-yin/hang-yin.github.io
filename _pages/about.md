@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-toc: false
+title: ""
+layout: home
 classes: wide
 gallery5823:
   - url: /assets/images/5823-1.jpg
@@ -44,45 +44,8 @@ gallery7594:
     title: "Image 3 title caption"
 ---
 
-Hi there! I'm Hang, a graduate student at Northwestern University pursuing a Master of Science in Robotics degree with a focus on machine learning, computer vision, and control systems. I have a solid foundation in programming languages including Python, C++, C, and JavaScript, and am proficient in frameworks like ROS2 and PyTorch. I also have experience with embedded systems and have implemented algorithms for robotics projects such as quad-rotor control and mobile manipulation. My recent projects involve implementing Feature-based SLAM on a TurtleBot, ChatGPT-powered Robot Chef, and Edge-conditioned GCN for Sentiment Analysis. I am actively seeking full-time opportunities in the field of robotics and am excited to explore challenging projects that leverage my skills and interests.
 
-## Professional Experience
-
-<table>
-  <tbody>
-    <tr>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
-      <td style = "border-bottom-width:0;">
-        <strong>Stanford AI Lab</strong> <br> 01/2024 - present <br> Research Engineer</td>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
-      <td style = "border-bottom-width:0;">
-        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics&Controls Intern</td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
-    </tr>
-  </tbody>
-</table>
-
-## Education
-
-<table>
-  <tbody>
-    <tr>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2022 - 12/2023 <br> M.S. in Robotics
-      </td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2019 - 06/2022 <br> B.S. with honors in Computer Science, <em>summa cum laude</em>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<!-- ## FIRST Robotics
+## FIRST Robotics
 
 ### Team 5823 ACE
 In 2015, I had the privilege of founding Team 5823, a high school robotics team that, to my delight, expanded to include over 50 enthusiastic members during my tenure as captain from 2015 to 2018. Our journey was full of learning experiences, with one of the highlights being an unexpected feature on Chinese national television. To our astonishment, we emerged victorious in the International Division of the 2015 China Robotics Challenge. Encouraged by this accomplishment, we continued to participate and were honored with a win in the National Division in 2016. 
@@ -97,7 +60,7 @@ In 2018, I had the unique opportunity to co-found Team Mulan, the first all-girl
 In 2019, seeing a need for more engineering exposure at my high school, I founded Team Nautilus, a robotics team with the mission of introducing younger students to the exciting world of engineering. Having the opportunity to mentor Team Nautilus from 2019 to 2020 was an immensely gratifying experience. It was a joy to share my passion for this field and to see these young individuals develop an interest of their own. Our efforts bore fruit beyond cultivating an interest in engineering among the students: our team was honored with the Highest Rookie Seed Award and the Rookie Inspiration Award at the Finger Lakes Regional. However, the real reward lay in seeing the sparks of curiosity ignite in the students, and knowing we had given them a valuable introduction to a field that had inspired me so deeply.
 {% include gallery id="gallery7594" %}
 
-## Writing
+<!-- ## Writing
 
 ### Personal Writing
 As a writer, I've been fortunate to have had the opportunity to express my thoughts on important issues, particularly those related to STEM education and societal matters. Over time, this journey has resulted in the publication of more than 300 essays across 65 newspapers and magazines, an achievement that still surprises me. To my astonishment, 8 magazines even saw fit to launch personal special editions featuring my work, an honor I deeply appreciate. Perhaps one of the most humbling recognitions was being listed among the Top 10 Youth Writers in China for the Yuhua Cup. While these accolades are heartening, the true reward has always been the chance to contribute to conversations that I believe are crucial and to hopefully inspire others to engage in these important discussions.
