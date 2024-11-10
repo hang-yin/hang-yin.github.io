@@ -51,9 +51,12 @@ Hi there! I'm Hang, a graduate student at Northwestern University pursuing a Mas
 <table>
   <tbody>
     <tr>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
+      <td style = "border-bottom-width:0;">
+        <strong>Stanford AI Lab</strong> <br> 01/2024 - present <br> Research Engineer</td>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
-<strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls Internship</td>
+        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls Intern</td>
       <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
@@ -79,7 +82,7 @@ Hi there! I'm Hang, a graduate student at Northwestern University pursuing a Mas
 </table>
 
 
-## FIRST Robotics
+<!-- ## FIRST Robotics
 
 ### Team 5823 ACE
 In 2015, I had the privilege of founding Team 5823, a high school robotics team that, to my delight, expanded to include over 50 enthusiastic members during my tenure as captain from 2015 to 2018. Our journey was full of learning experiences, with one of the highlights being an unexpected feature on Chinese national television. To our astonishment, we emerged victorious in the International Division of the 2015 China Robotics Challenge. Encouraged by this accomplishment, we continued to participate and were honored with a win in the National Division in 2016. 
@@ -103,4 +106,4 @@ As a writer, I've been fortunate to have had the opportunity to express my thoug
 Beyond the realm of magazines and newspapers, I was privileged enough to venture into the world of book publishing. My essay collection, "No Game, No Life," was published and saw a print run of 5,000 copies, thanks to the support of the National Literature and History Press. Later, I had the opportunity to delve into the realm of speculative fiction, resulting in the publication of my science fiction collection, "Destination: Light & Warmth," which reached an even wider audience with 6,000 copies, thanks to National United Press. Seeing these works reach so many readers has been deeply humbling and I am grateful for the opportunity to share my perspectives on a larger scale.
 
 ### Recognition
-I've been fortunate enough to receive recognition for my work, with over 20 national awards that I regard as a testament to the power of persistent effort rather than personal prowess. Among these, winning the 17th China Juvenile Writer Writing Competition, the 4th China Youth Writer Writing Competition, and the 9th National Bingxin Youth Writer Writing Competition stand out as particularly humbling experiences. Each award serves as a reminder of the impact that words can have, and of the responsibility to use that impact wisely. 
+I've been fortunate enough to receive recognition for my work, with over 20 national awards that I regard as a testament to the power of persistent effort rather than personal prowess. Among these, winning the 17th China Juvenile Writer Writing Competition, the 4th China Youth Writer Writing Competition, and the 9th National Bingxin Youth Writer Writing Competition stand out as particularly humbling experiences. Each award serves as a reminder of the impact that words can have, and of the responsibility to use that impact wisely.  -->

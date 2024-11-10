@@ -16,10 +16,10 @@
 title: Hang Yin
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  M.S. in Robotics Student
+  Robotics Engineer
 twitter_username: username
 github_username: hang-yin
-minimal_mistakes_skin: dark # default
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -58,9 +58,9 @@ plugins:
 author:
   name   : "Hang Yin"
   avatar : "/assets/images/bio-photo1.png"
-  bio    : "MS in Robotics @ Northwestern"
+  bio    : "Robotics @ Stanford"
   links:
-    - label: "Evanston, IL"
+    - label: "Palo Alto, CA"
       icon: "fas fa-fw fa-map-marker-alt"
       url: ""
     - label: "GitHub"
