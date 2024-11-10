@@ -319,19 +319,30 @@ TODO
 <style>
 .container {
   display: flex;
-  margin-bottom: 20px;
-  gap: 20px;
+  margin-bottom: 10px;
+  gap: 10px;
 }
 
 .image-container {
-  flex: 0 0 auto;
+  flex: 0 0 200px;
+  height: 100px;
+  overflow: hidden;
 }
 
 .image-container img {
-  height: 150px;
-  width: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
   display: block;
   transition: opacity 0.2s;
+}
+
+/* Special handling for logo-style images in the experience/education tables */
+table img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
 }
 
 .image-container img:hover {
@@ -342,14 +353,15 @@ TODO
   flex: 1;
   display: flex;
   flex-direction: column;
-  min-height: 150px;
+  min-height: 100px;
+  justify-content: flex-start;
 }
 
 .header-row {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.5rem;
+  align-items: flex-start;
+  margin-bottom: 0.25rem;
 }
 
 .header-row h3 {
@@ -357,6 +369,7 @@ TODO
   font-size: 0.8rem;
   color: #333;
   transition: color 0.2s;
+  line-height: 1.2;
 }
 
 .title-link {
@@ -365,7 +378,7 @@ TODO
 }
 
 .title-link:hover h3 {
-  color: #0066cc; /* Link blue color */
+  color: #0066cc;
   text-decoration: underline;
 }
 
