@@ -76,4 +76,4 @@ To achieve autonomous flight, we need to know the pose of the quadrotor in 3D sp
 [Github repo](https://github.com/EricYYang2022/CS410-Quad04)
 
 ## Group Members
-Hang Yin, Eric Yang
+Eric Yang

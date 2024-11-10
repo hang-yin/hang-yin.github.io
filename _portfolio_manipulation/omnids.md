@@ -152,7 +152,7 @@ Looking at these plots, there is a slight improvement in the completion time for
 One thing that we began to experiment with but didn't have the time to test in-depth is the idea that if we train our policy to learn multiple goals, just like what we are doing now, the policy is learning multiple tasks and might not always make effective predictions at some arbitrary locations. Therefore, we tried training our policy on a single target location and obtained promising results, where we observed significantly shorter completion times with our models than using the baseline. Additionally, we considered that instead of indirectly controlling the motion of the omnid, we could try directly replacing the PID controller in the original system, which centers the delta arm end effector on the chassis. Eventually, if these models show promising results in simpler single robot tasks, we could attempt to generalize these approaches to a swarm of three omnids to perform assembly tasks.
 
 ## Group Members
-Hang Yin, [Nick Morales](https://ngmor.github.io/), advised by [Prof. Matthew Elwin](https://robotics.northwestern.edu/people/profiles/faculty/elwin-matt.html)
+[Nick Morales](https://ngmor.github.io/), advised by [Prof. Matthew Elwin](https://robotics.northwestern.edu/people/profiles/faculty/elwin-matt.html)
 
 ## Source Code
 [Github repo](https://github.com/omnid/omnid_ml)

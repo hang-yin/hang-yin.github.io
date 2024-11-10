@@ -56,4 +56,4 @@ Check out our paper [here](https://raw.githubusercontent.com/hang-yin/portfolio/
 [Github repo](https://github.com/xiaojoey/CS397Project)
 
 ## Group members
-Hang Yin, Joey Yang, Junhao Xu, Renzhi Hao
+Joey Yang, Junhao Xu, Renzhi Hao

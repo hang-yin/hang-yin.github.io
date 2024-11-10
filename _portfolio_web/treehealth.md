@@ -36,4 +36,4 @@ You can find the deployed version [here](https://treehealth-dfcd1.web.app/).
 [Github repo](https://github.com/394-s21/treehealth)
 
 ## Group members
-Hang Yin, Darryl Forbes, Zain Bashey, Si-woo Park
+Darryl Forbes, Zain Bashey, Si-woo Park

@@ -60,4 +60,4 @@ Finally, the arm can be returned to its default "home" position via a touch of a
 [Github repo](https://github.com/hang-yin/IMUnipulator)
 
 ## Group members
-Hang Yin, Nick Morales, Felipe Jannarone
+Nick Morales, Felipe Jannarone

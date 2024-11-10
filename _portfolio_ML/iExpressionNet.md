@@ -51,4 +51,4 @@ The general dataset we are using is FER-13 with 7 classes (0=Angry, 1=Disgust, 2
 [Github repo](https://github.com/peizhiliu168/iExpressionNet)
 
 ## Group members
-Hang Yin, Peizhi Liu
+Peizhi Liu

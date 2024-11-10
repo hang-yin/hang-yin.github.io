@@ -57,4 +57,4 @@ Check out our paper [here](https://raw.githubusercontent.com/hang-yin/portfolio/
 [Github repo](https://github.com/NUDelta/OrchestrationScriptPrototype)
 
 ## Group Members
-Hang Yin, Jason Friedman
+Jason Friedman, advised by [Kapil Garg](https://www.kgarg.com/), [Ryan Louie](https://youralien.github.io/), and [Prof. Haoqi Zhang](https://eecs.northwestern.edu/~hq/)

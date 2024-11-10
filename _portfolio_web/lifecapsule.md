@@ -30,4 +30,4 @@ You can find the deployed version [here](https://lifecapsuleservices.web.app/ind
 [Github repo](https://github.com/394-s21/cs394blue)
 
 ## Group members
-Hang Yin, Darryl Forbes, Zain Bashey, Si-woo Park
+Darryl Forbes, Zain Bashey, Si-woo Park
