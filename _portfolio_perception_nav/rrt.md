@@ -1,6 +1,7 @@
 ---
 title: "Rapidly-Exploring Random Tree for path planning"
 author_profile: true
+toc: true
 key: 10
 excerpt: "Path planning, Python"
 header:

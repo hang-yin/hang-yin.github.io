@@ -1,7 +1,7 @@
 ---
 title: "GCN for Sentiment Analysis"
-toc: false
 author_profile: true
+toc: true
 key: 3
 excerpt: "NLP, edge-conditioned GCN, Tensorflow"
 header:

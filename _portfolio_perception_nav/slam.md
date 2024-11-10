@@ -1,7 +1,7 @@
 ---
 title: "Feature-based EKF-SLAM from Scratch"
 author_profile: true
-toc: false
+toc: true
 key: 0
 excerpt: "Extended Kalman Filter, Localization, Simulation, C++"
 header:

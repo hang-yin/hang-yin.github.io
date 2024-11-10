@@ -1,8 +1,8 @@
 ---
 title: "Swarm Shape and Behavior Control"
 author_profile: true
-key: 8
 toc: true
+key: 8
 excerpt: "Distributed control, state machine, Docker, Python"
 header:
   teaser: /assets/images/swarm-tn.png

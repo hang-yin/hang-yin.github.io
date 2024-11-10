@@ -1,6 +1,7 @@
 ---
 title: "Lifecapsule Mobile App"
 author_profile: true
+toc: true
 key: 13
 excerpt: "React Native, Javascript"
 header:

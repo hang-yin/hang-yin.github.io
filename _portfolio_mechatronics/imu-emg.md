@@ -1,6 +1,7 @@
 ---
 title: "IMU Controlled Robot Arm"
 author_profile: true
+toc: true
 key: 6
 excerpt: "C, Embedded System, IMU, EMG"
 header:

@@ -1,6 +1,7 @@
 ---
 title: "CVAE for Assistive Action Prediction"
 author_profile: true
+toc: true
 key: -2
 excerpt: "Imitation Learning, data infrastructure, ROS2 Control"
 header:

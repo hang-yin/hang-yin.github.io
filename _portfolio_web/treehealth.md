@@ -1,6 +1,7 @@
 ---
 title: "TreeHealth Mobile App"
 author_profile: true
+toc: true
 key: 12
 excerpt: "React Native, Javascript"
 header:

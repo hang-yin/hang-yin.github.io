@@ -1,6 +1,7 @@
 ---
 title: "Robot Jenga Assistant"
 author_profile: true
+toc: true
 key: 1
 excerpt: "ROS2, MoveIt, OpenCV, Machine Learning"
 header:

@@ -1,6 +1,7 @@
 ---
 title: "ROI-bounded Visual Odometry"
 author_profile: true
+toc: true
 key: 1
 excerpt: "Computer Vision, OpenCV, RealSense Camera"
 header:

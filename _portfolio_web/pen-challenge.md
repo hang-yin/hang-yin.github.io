@@ -1,6 +1,7 @@
 ---
 title: "Pen Recognition and Control"
 author_profile: true
+toc: true
 key: 20
 excerpt: "Computer vision, Manipulation, OpenCV"
 header:

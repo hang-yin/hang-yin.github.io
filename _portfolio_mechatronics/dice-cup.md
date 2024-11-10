@@ -1,6 +1,7 @@
 ---
 title: "Dice in a Cup Simulation from Scratch"
 author_profile: true
+toc: true
 key: 9
 excerpt: "Lagrangian Dynamics, SymPy"
 header:

@@ -1,6 +1,7 @@
 ---
 title: "iExpressionNet"
 author_profile: true
+toc: true
 key: 4
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
 header:
