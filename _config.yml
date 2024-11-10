@@ -21,6 +21,7 @@ twitter_username: username
 github_username: hang-yin
 minimal_mistakes_skin: default
 search: true
+baseurl: ""
 
 # Build settings
 markdown: kramdown

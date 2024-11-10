@@ -1,5 +1,5 @@
 ---
-title: "CVAE for Assistive Action Prediction"
+title: "Action Chunking with Transformers (ACT) for Assistive Action Prediction"
 author_profile: true
 toc: true
 key: -2
