@@ -7,7 +7,9 @@ classes: wide
 
 ## About Me
 
-TODO
+I'm a Research Engineer at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), where I pursue my passion for robotics and machine learning. My research focuses on robotics simulation and data curation for robot learning.
+
+I received my M.S. in Robotics and B.S. in Computer Science from Northwestern University. I was also fortunate enough to have the opportunity to work on the [OTTAVA](https://thenext.jnjmedtech.com/surgical-robotics) surgical robotic system as part of the Robotics & Controls team at Johnson & Johnson MedTech.
 
 ## Professional Experience
 <table>
