@@ -24,6 +24,8 @@ search: true
 url: "https://hang-yin.github.io"
 baseurl: ""
 
+repository: "hang-yin/hang-yin.github.io"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
