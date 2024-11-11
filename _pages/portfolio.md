@@ -59,7 +59,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>BEHAVIOR-1K is a comprehensive simulation benchmark for human-centered robotics with 1,000 real-world tasks. Powered by NVIDIA's Omniverse, it features diverse scenes, objects, and activities with realistic rendering and physics simulation. This benchmark aims to advance embodied AI and robot learning research.</p>
     </div>
   </div>
 </div>
@@ -79,7 +79,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>This project aims to enhance human-robot collaboration with Omnid Mocobots by implementing imitation learning approaches (Action Chunking with Transformers and Diffusion Policy) to predict human intent during co-manipulation tasks.</p>
     </div>
   </div>
 </div>
@@ -97,7 +97,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>This project created a voice-controlled robotic cooking assistant that combines LLM for recipe planning, CLIP for object detection, and MediaPipe with LSTM for hand gesture recognition, allowing users to interact with a robot arm through Alexa voice commands to collaboratively prepare meals.</p>
     </div>
   </div>
 </div>
@@ -115,7 +115,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>This project implemented a feature-based EKF-SLAM (Extended Kalman Filter for Simultaneous Localization and Mapping) system from scratch in C++, using ROS2 and Rviz for simulation, with custom landmark detection algorithms to enable a robot to simultaneously map its environment and determine its location within it.</p>
     </div>
   </div>
 </div>
@@ -129,155 +129,11 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
   <div class="text-container">
     <div class="header-row">
       <a href="/portfolio_manipulation/jenga" class="title-link">
-        <h3>Jengabells</h3>
+        <h3>Jengabells - Franka Plays Jenga</h3>
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_perception_nav/visual-odom">
-      <img src="/assets/images/visual-odom1.gif" alt="visual-odom">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_perception_nav/visual-odom" class="title-link">
-        <h3>RoI-bounded Visual Odometry</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_perception_nav/swarm">
-      <img src="/assets/images/swarm-tn.png" alt="swarm">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_perception_nav/swarm" class="title-link">
-        <h3>Swarm Shape and Behavior Control</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_web/os-env">
-      <img src="/assets/images/os-env.jpg" alt="os-env">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_web/os-env" class="title-link">
-        <h3>Orchestration Scripting Environment</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_mechatronics/quadrotor">
-      <img src="/assets/images/quadrotor.jpg" alt="quadrotor">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_mechatronics/quadrotor" class="title-link">
-        <h3>Quadrotor Control</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_mechatronics/mario">
-      <img src="/assets/images/mario-luigi.png" alt="mario">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_mechatronics/mario" class="title-link">
-        <h3>Mario Motorcycle</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_mechatronics/imu-emg">
-      <img src="/assets/images/imu-emg.jpg" alt="imu-emg">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_mechatronics/imu-emg" class="title-link">
-        <h3>IMU Controlled Robot Arm</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_mechatronics/dice-cup">
-      <img src="/assets/images/314.gif" alt="dice-cup">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_mechatronics/dice-cup" class="title-link">
-        <h3>Dice in a Cup Simulation from Scratch</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="image-container">
-    <a href="/portfolio_manipulation/kuka">
-      <img src="/assets/images/449.gif" alt="kuka">
-    </a>
-  </div>
-  <div class="text-container">
-    <div class="header-row">
-      <a href="/portfolio_manipulation/kuka" class="title-link">
-        <h3>KUKA youBot Mobile Manipulation</h3>
-      </a>
-    </div>
-    <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>This project developed a Jenga-playing assistant using a Franka Emika Panda robotic arm, combining computer vision for tower and brick detection, a custom MoveIt API for motion planning, and transfer learning on MobileNets for hand detection. </p>
     </div>
   </div>
 </div>
@@ -295,7 +151,151 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>A project that combines dependency parsing and pre-trained language models using edge-conditioned graph convolutional networks (GCN) for sentiment analysis, achieving 87.36% accuracy on IMDB binary classification with fewer parameters than traditional methods, while maintaining interpretability by representing sentences as graphs with both semantic and syntactic features.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_manipulation/kuka">
+      <img src="/assets/images/449.gif" alt="kuka">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_manipulation/kuka" class="title-link">
+        <h3>KUKA youBot Mobile Manipulation</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>A project implementing trajectory planning and control for a KUKA youBot mobile manipulator (featuring a 5R robot arm mounted on a four-wheeled mecanum base), which performs an eight-segment pick-and-place operation using feedforward control and odometry-based kinematics simulation to accurately move blocks between specified locations.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_perception_nav/visual-odom">
+      <img src="/assets/images/visual-odom1.gif" alt="visual-odom">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_perception_nav/visual-odom" class="title-link">
+        <h3>RoI-bounded Visual Odometry</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>This project optimized monocular visual odometry by implementing a region-of-interest (ROI) based approach for feature detection, significantly reducing computational requirements while maintaining accuracy compared to traditional methods that process entire image frames.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_perception_nav/swarm">
+      <img src="/assets/images/swarm-tn.png" alt="swarm">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_perception_nav/swarm" class="title-link">
+        <h3>Swarm Shape and Behavior Control</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>This project implemented two swarm control algorithms: one simulating the Brazil nut effect for spatial sorting of robots by size, and another replicating Reynolds' flocking behavior to coordinate robot movement like bird flocks, with both systems using distributed control methods.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_mechatronics/quadrotor">
+      <img src="/assets/images/quadrotor.jpg" alt="quadrotor">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_mechatronics/quadrotor" class="title-link">
+        <h3>Quadrotor Design and Control</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>This project built an autonomous quadrotor drone by implementing IMU integration, PID control systems, manual joystick control, and Vive lighthouse positioning, enabling both manual and autonomous flight capabilities.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_mechatronics/mario">
+      <img src="/assets/images/mario-luigi.png" alt="mario">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_mechatronics/mario" class="title-link">
+        <h3>Mario Motorcycle</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>Inspired by Mario Kart, this project involved creating a line-following motorcycle that uses a Raspberry Pi Pico W for image processing and a PIC microcontroller for steering control, complete with custom-designed PCBs, earning "Best Design" at the 2023 Northwestern Tech Cup.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_mechatronics/imu-emg">
+      <img src="/assets/images/imu-emg.jpg" alt="imu-emg">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_mechatronics/imu-emg" class="title-link">
+        <h3>IMU & EMG Controlled Robot Arm</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>A collaborative project where two teams created the IMUGripulator - a 2-DOF robotic arm system combining IMU-based joint control and EMG-based gripper control, built using micro:bit v2 microcontrollers and programmed in C, featuring various sensors including a 9-DOF IMU for tilt-based movement and capacitive touch controls for sensitivity adjustment.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_mechatronics/dice-cup">
+      <img src="/assets/images/314.gif" alt="dice-cup">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_mechatronics/dice-cup" class="title-link">
+        <h3>Dice in a Cup Simulation from Scratch</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>A physics simulation project that models a dice bouncing inside a spinning cup, implementing Lagrangian dynamics to handle the 6 degrees of freedom system, including collision detection between the dice's corners and cup edges, while accounting for gravitational and external forces to maintain the cup's position.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="/portfolio_web/os-env">
+      <img src="/assets/images/os-env.jpg" alt="os-env">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="/portfolio_web/os-env" class="title-link">
+        <h3>Orchestration Scripting Environment</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>This project developed Orchestration Scripts, a framework that supports effective work practices by detecting workplace situations and providing tailored strategies using computational abstractions of organizational processes, structures, venues, and tools.</p>
     </div>
   </div>
 </div>
@@ -313,7 +313,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Short description of the project over multiple lines.</p>
+      <p>A deep learning project that improves facial expression detection accuracy for specific users by combining transfer learning with a two-stage approach: first training a CNN on the general FER-13 dataset, then fine-tuning the model using individual users' facial expression data while keeping the convolutional layers frozen, integrated with OpenCV for face detection.</p>
     </div>
   </div>
 </div>
