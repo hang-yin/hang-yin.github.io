@@ -3,6 +3,9 @@ title: ""
 layout: home
 permalink: /
 classes: wide
+redirect_from:
+  - /portfolio/
+  - /portfolio
 ---
 
 ## About Me
