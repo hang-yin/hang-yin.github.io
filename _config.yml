@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Hang Yin
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Robotics Engineer
 twitter_username: username
-github_username: username
+github_username: hang-yin
 minimal_mistakes_skin: default
 search: true
+url: "https://hang-yin.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -58,34 +58,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Hang Yin"
+  avatar : "/assets/images/bio-photo1.png"
+  bio    : "Robotics @ Stanford"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Palo Alto, CA"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/hang-yin"
+    - label: "Email"
+      icon: "fa fa-fw fa-envelope"
+      url: "mailto:hangyin2023@u.northwestern.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/hangyin0226/"
+    
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/hang-yin"
 
 defaults:
   # _posts
@@ -106,6 +101,79 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_manipulation
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_perception_nav
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_ML
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_mechatronics
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_web
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: portfolio_other
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_manipulation:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_perception_nav:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_ML:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_mechatronics:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_web:
+    output: true
+    permalink: /:collection/:path/
+  portfolio_other:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
