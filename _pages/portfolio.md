@@ -49,7 +49,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="https://behavior.stanford.edu/">
-      <img src="/assets/images/b1k.jpg" alt="b1k">
+      <img src="{{site.baseurl}}/assets/images/b1k.jpg" alt="b1k">
     </a>
   </div>
   <div class="text-container">
@@ -69,7 +69,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_manipulation/omnids">
-      <img src="/assets/images/omnids.gif" alt="omnids">
+      <img src="{{site.baseurl}}/assets/images/omnids.gif" alt="omnids">
     </a>
   </div>
   <div class="text-container">
@@ -87,7 +87,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_manipulation/robot-chef">
-      <img src="/assets/images/robot_chef.gif" alt="robot-chef">
+      <img src="{{site.baseurl}}/assets/images/robot_chef.gif" alt="robot-chef">
     </a>
   </div>
   <div class="text-container">
@@ -105,7 +105,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_perception_nav/slam">
-      <img src="/assets/images/slam_gif.gif" alt="slam">
+      <img src="{{site.baseurl}}/assets/images/slam_gif.gif" alt="slam">
     </a>
   </div>
   <div class="text-container">
@@ -123,7 +123,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_manipulation/jenga">
-      <img src="/assets/images/jenga.gif" alt="jenga-project">
+      <img src="{{site.baseurl}}/assets/images/jenga.gif" alt="jenga-project">
     </a>
   </div>
   <div class="text-container">
@@ -141,7 +141,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_ML/nlp-project">
-      <img src="/assets/images/nlp_pipeline.jpg" alt="nlp-project">
+      <img src="{{site.baseurl}}/assets/images/nlp_pipeline.jpg" alt="nlp-project">
     </a>
   </div>
   <div class="text-container">
@@ -159,7 +159,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_manipulation/kuka">
-      <img src="/assets/images/449.gif" alt="kuka">
+      <img src="{{site.baseurl}}/assets/images/449.gif" alt="kuka">
     </a>
   </div>
   <div class="text-container">
@@ -177,7 +177,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_perception_nav/visual-odom">
-      <img src="/assets/images/visual-odom1.gif" alt="visual-odom">
+      <img src="{{site.baseurl}}/assets/images/visual-odom1.gif" alt="visual-odom">
     </a>
   </div>
   <div class="text-container">
@@ -195,7 +195,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_perception_nav/swarm">
-      <img src="/assets/images/swarm-tn.png" alt="swarm">
+      <img src="{{site.baseurl}}/assets/images/swarm-tn.png" alt="swarm">
     </a>
   </div>
   <div class="text-container">
@@ -213,7 +213,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_mechatronics/quadrotor">
-      <img src="/assets/images/quadrotor.jpg" alt="quadrotor">
+      <img src="{{site.baseurl}}/assets/images/quadrotor.jpg" alt="quadrotor">
     </a>
   </div>
   <div class="text-container">
@@ -231,7 +231,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_mechatronics/mario">
-      <img src="/assets/images/mario-luigi.png" alt="mario">
+      <img src="{{site.baseurl}}/assets/images/mario-luigi.png" alt="mario">
     </a>
   </div>
   <div class="text-container">
@@ -249,7 +249,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_mechatronics/imu-emg">
-      <img src="/assets/images/imu-emg.jpg" alt="imu-emg">
+      <img src="{{site.baseurl}}/assets/images/imu-emg.jpg" alt="imu-emg">
     </a>
   </div>
   <div class="text-container">
@@ -267,7 +267,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_mechatronics/dice-cup">
-      <img src="/assets/images/314.gif" alt="dice-cup">
+      <img src="{{site.baseurl}}/assets/images/314.gif" alt="dice-cup">
     </a>
   </div>
   <div class="text-container">
@@ -285,7 +285,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_web/os-env">
-      <img src="/assets/images/os-env.jpg" alt="os-env">
+      <img src="{{site.baseurl}}/assets/images/os-env.jpg" alt="os-env">
     </a>
   </div>
   <div class="text-container">
@@ -303,7 +303,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="/portfolio_ML/iExpressionNet">
-      <img src="/assets/images/emotion_detection.png" alt="emotion-detection">
+      <img src="{{site.baseurl}}/assets/images/emotion_detection.png" alt="emotion-detection">
     </a>
   </div>
   <div class="text-container">
