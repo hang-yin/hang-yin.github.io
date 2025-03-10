@@ -49,6 +49,25 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 
 
 ## Publications
+
+<div class="container">
+  <div class="image-container">
+    <a href="https://behavior-robot-suite.github.io/">
+      <img src="{{site.baseurl}}/assets/images/brs.jpg" alt="brs">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="https://behavior-robot-suite.github.io/" class="title-link">
+        <h3>BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>We introduce the BEHAVIOR Robot Suite (BRS) for household mobile manipulation, featuring a bimanual wheeled robot with 4-DoF torso that achieves critical capabilities in coordination, navigation, and reachability. Our framework includes a cost-effective teleoperation interface and novel algorithm for learning whole-body visuomotor policies.</p>
+    </div>
+  </div>
+</div>
+
 <div class="container">
   <div class="image-container">
     <a href="https://behavior.stanford.edu/">
