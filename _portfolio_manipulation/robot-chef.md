@@ -1,15 +1,15 @@
 ---
-title: "ChatGPT-powered Robot Chef"
+title: "Autonomous Robot Chef"
 author_profile: true
 toc: true
 key: -1
-excerpt: "ChatGPT, CLIP, MediaPipe, LSTM, ROS2, MoveIt"
+excerpt: "LLM, CLIP, MediaPipe, LSTM, ROS2, MoveIt"
 header:
   teaser: /assets/images/robot_chef.gif
 classes: wide
 ---
 
-This project is a system that enables voice-controlled, robot-assisted cooking. The system utilizes a custom Alexa skill to process user voice commands and a Flask app to generate recipe steps through ChatGPT. Object detection using a RealSense camera and the CLIP model allows the system to recognize objects in the kitchen and adjust recipe steps accordingly. The robot arm executes the steps autonomously, while a hand-action recognition model based on MediaPipe provides the necessary feedback to ensure collaboration between human and robot in completing the cooking tasks. This system contributes to home automation technology and showcases the integration of machine learning, computer vision, and robotics in real-world applications.
+This project is a system that enables voice-controlled, robot-assisted cooking. The system utilizes a custom Alexa skill to process user voice commands and a Flask app to generate recipe steps through Large Language Models. Object detection using a RealSense camera and the CLIP model allows the system to recognize objects in the kitchen and adjust recipe steps accordingly. The robot arm executes the steps autonomously, while a hand-action recognition model based on MediaPipe provides the necessary feedback to ensure collaboration between human and robot in completing the cooking tasks. 
 
 ## Video Demo
 <iframe
@@ -30,7 +30,7 @@ This project is a system that enables voice-controlled, robot-assisted cooking. 
 
 To enable users to interact with this system more intuitively and conveniently, I built a custom Alexa skill that enables users to control the system through voice commands. The Alexa Developer console was used to build and deploy the custom skill on an Alexa dot, which converts audio to text and extracts the user's intent, which refers to the recipe they want to cook. Once the intent is extracted, the Alexa custom skill sends an HTTP request to a local Flask app, which would then process the request with ChatGPT to generate recipe steps that the robot arm can execute. 
 
-## ChatGPT Query
+## LLM Query
 
 ### Overview
 
@@ -59,7 +59,7 @@ It is worth noting that at the time of this project, the ChatGPT API was not yet
 ![CLIP result]({{ site.url }}{{ site.baseurl }}/assets/images/clip-result.png)
 
 ### Comparison with traditional object detection methods
-For object detection, the system uses a RealSense D435i camera and a machine learning model called CLIP. Unlike other state-of-the-art object detection models like DETR and YOLO v5, CLIP is trained on a massive dataset of 400 million (image, text) pairs, making it capable of recognizing out-of-vocabulary objects without the need for additional labeled data. Since CLIP can recognize objects based on their textual descriptions, it can also take into account different variations and synonyms of the same object, leading to a more robust detection performance. For example, we can ask CLIP to find a "red apple" or "chopped onion".  The 3D location of objects in the kitchen is provided by CLIP, which produces center object bounding boxes and uses depth information from the RealSense camera. Initially, I experimented with other object detection models but found that they couldn't recognize out-of-vocabulary objects without fine-tuning on every kitchen's novel objects, which was not practical. In contrast, CLIP's ability to recognize a wide range of objects without the need for additional labeling made it a more general and usable solution for the system.
+For object detection, the system uses a RealSense D435i camera and CLIP (Contrastive Language-Image Pre-Training) model from OpenAI. Unlike other state-of-the-art object detection models like DETR and YOLO v5, CLIP is trained on a massive dataset of 400 million (image, text) pairs, making it capable of recognizing out-of-vocabulary objects without the need for additional labeled data. Since CLIP can recognize objects based on their textual descriptions, it can also take into account different variations and synonyms of the same object, leading to a more robust detection performance. For example, we can ask CLIP to find a "red apple" or "chopped onion".  The 3D location of objects in the kitchen is provided by CLIP, which produces center object bounding boxes and uses depth information from the RealSense camera. Initially, I experimented with other object detection models but found that they couldn't recognize out-of-vocabulary objects without fine-tuning on every kitchen's novel objects, which was not practical for large-scale generalization. In contrast, CLIP's ability to recognize a wide range of objects without the need for additional labeling made it a more general and usable solution for the system.
 
 ### Implementation of CLIP for multiple objects
 
