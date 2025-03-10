@@ -9,6 +9,8 @@ header:
 classes: wide
 ---
 
+This project explores end-to-end visuomotor policies to enhance human-robot collaboration using [Omnid mocobots](https://www.robotics.northwestern.edu/research/publications/human-multirobot-collaborative-mobile-manipulation-the-omnid-mocobots.html) - a novel class of mobile collaborative robots designed for safe and intuitive co-manipulation of heavy or unwieldy payloads. Building upon the original Omnid platform, which uses passive compliance and force control to make payloads feel weightless during human interaction, we investigate how modern generative methods can make this collaboration even more seamless. By implementing and comparing two state-of-the-art approaches - [Action Chunking with Transformers (ACT)](https://tonyzhaozh.github.io/aloha/) and [RGB-Diffusion Policy](https://diffusion-policy.cs.columbia.edu/) - we develop systems that can predict and generate assistive robot actions based on visual and force feedback. Our goal is to minimize human effort in co-manipulation tasks by enabling the robots to better understand and anticipate human intent. The project encompasses a complete pipeline from ROS2 infrastructure development and data collection to model implementation and real-world evaluation.
+
 ## Video Demo
 <iframe
     width="100%"
