@@ -53,7 +53,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 <div class="container">
   <div class="image-container">
     <a href="https://behavior-robot-suite.github.io/">
-      <img src="{{site.baseurl}}/assets/images/brs.jpg" alt="brs">
+      <img src="{{site.baseurl}}/assets/images/brs_hardware.jpg" alt="brs">
     </a>
   </div>
   <div class="text-container">
