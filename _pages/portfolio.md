@@ -70,13 +70,13 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 
 <div class="container">
   <div class="image-container">
-    <a href="https://behavior.stanford.edu/">
+    <a href="https://behavior.stanford.edu/behavior-1k">
       <img src="{{site.baseurl}}/assets/images/b1k.jpg" alt="b1k">
     </a>
   </div>
   <div class="text-container">
     <div class="header-row">
-      <a href="https://behavior.stanford.edu/" class="title-link">
+      <a href="https://behavior.stanford.edu/behavior-1k" class="title-link">
         <h3>BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
       </a>
     </div>

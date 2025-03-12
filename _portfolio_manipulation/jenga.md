@@ -91,4 +91,4 @@ This project is meant to turn a Franka Emika Panda arm into a Jenga assistant! I
  - Howard, A., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017). MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [https://doi.org/10.48550/ARXIV.1704.04861](https://doi.org/10.48550/ARXIV.1704.04861) 
 
 ## Group members
-Katie Hughes, Liz Metzger, Alyssa Chen
+[Katie Hughes](https://katie-hughes.github.io/), [Liz Metzger](https://lizmetzger.github.io/portfolio/), [Alyssa Chen](https://alyssachen2022.wixsite.com/ajcportfolio)
