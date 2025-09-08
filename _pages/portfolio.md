@@ -10,9 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a Research Engineer at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), where I pursue my passion for robotics and machine learning. My research focuses on robotics simulation and data curation for robot learning.
-
-I received my M.S. in Robotics and B.S. in Computer Science from Northwestern University. I was also fortunate enough to have the opportunity to work on the [OTTAVA](https://thenext.jnjmedtech.com/surgical-robotics) surgical robotic system as part of the Robotics & Controls team at Johnson & Johnson MedTech.
+I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), where I focus on robotics research. My work centers on developing 3D robot simulations and curating datasets to advance robot learning.
 
 ## Professional Experience
 <table>
@@ -20,10 +18,10 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
     <tr>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
       <td style = "border-bottom-width:0;">
-        <strong>Stanford AI Lab</strong> <br> 01/2024 - present <br> Research Engineer</td>
+        <strong>Stanford AI Lab</strong> <br> 01/2024 - present <br> Software Developer 2</td>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
-        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics&Controls Intern</td>
+        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
       <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
@@ -48,7 +46,43 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 </table>
 
 
-## Publications
+## Research
+
+<div class="container">
+  <div class="image-container">
+    <a href="https://behavior.stanford.edu/challenge/">
+      <img src="{{site.baseurl}}/assets/images/behavior_challenge.png" alt="behavior-challenge">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="https://behavior.stanford.edu/challenge/" class="title-link">
+        <h3>BEHAVIOR Challenge: 50 full-length household tasks with 1200+ hrs of human teleoperation data</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>The BEHAVIOR Challenge at NeurIPS 2025 invites researchers to tackle long-horizon, everyday household tasks in realistic virtual home environments, supported by a large dataset of 10,000 richly annotated expert trajectories (over 1,200 hours) to advance robot planning and control in complex, human-centric settings.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="https://momagen-rss.github.io/">
+      <img src="{{site.baseurl}}/assets/images/momagen.png" alt="momagen">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="https://momagen-rss.github.io/" class="title-link">
+        <h3>MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>MoMaGen automatically generates diverse training datasets for bimanual mobile manipulation by solving constrained optimization problems that ensure robot reachability and camera visibility from minimal human demonstrations.</p>
+    </div>
+  </div>
+</div>
 
 <div class="container">
   <div class="image-container">
@@ -70,13 +104,13 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
 
 <div class="container">
   <div class="image-container">
-    <a href="https://behavior.stanford.edu/behavior-1k">
+    <a href="https://behavior.stanford.edu">
       <img src="{{site.baseurl}}/assets/images/b1k.jpg" alt="b1k">
     </a>
   </div>
   <div class="text-container">
     <div class="header-row">
-      <a href="https://behavior.stanford.edu/behavior-1k" class="title-link">
+      <a href="https://behavior.stanford.edu" class="title-link">
         <h3>BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
       </a>
     </div>
@@ -97,11 +131,11 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
   <div class="text-container">
     <div class="header-row">
       <a href="/portfolio_manipulation/omnids" class="title-link">
-        <h3>Action Chunking with Transformers (ACT) for Assistive Action Prediction</h3>
+        <h3>Omnid Mocobots: Predicting Human Intentions for Robot Interaction</h3>
       </a>
     </div>
     <div class="text-content">
-      <p>This project aims to enhance human-robot collaboration with Omnid Mocobots by implementing imitation learning approaches (Action Chunking with Transformers and Diffusion Policy) to predict human intent during co-manipulation tasks.</p>
+      <p>Enhancing human–robot collaboration with Omnid Mocobots, this work leverages imitation learning methods – including ACT and Diffusion Policy - to effectively forecast human intent during shared mobile manipulation tasks.</p>
     </div>
   </div>
 </div>
@@ -119,7 +153,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project created a voice-controlled robotic cooking assistant that combines LLM for recipe planning, CLIP for object detection, and MediaPipe with LSTM for hand gesture recognition, allowing users to interact with a robot arm through Alexa voice commands to collaboratively prepare meals.</p>
+      <p>A voice‐controlled robot cooking assistant that integrates LLM for recipe planning, CLIP for object detection, and MediaPipe with LSTM for hand gesture recognition. Users interact with a robot arm through Alexa commands to collaboratively prepare meals.</p>
     </div>
   </div>
 </div>
@@ -137,7 +171,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project implemented a feature-based EKF-SLAM (Extended Kalman Filter for Simultaneous Localization and Mapping) system from scratch in C++, using ROS2 and Rviz for simulation, with custom landmark detection algorithms to enable a robot to simultaneously map its environment and determine its location within it.</p>
+      <p>Developed from the ground up in C++ and simulated using ROS2 and Rviz, this feature‐based EKF-SLAM system employs custom landmark detection algorithms, enabling simultaneous mapping of the environment and precise self‐localization.</p>
     </div>
   </div>
 </div>
@@ -155,7 +189,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project developed a Jenga-playing assistant using a Franka Emika Panda robotic arm, combining computer vision for tower and brick detection, a custom MoveIt API for motion planning, and transfer learning on MobileNets for hand detection. </p>
+      <p>By combining computer vision for tower and brick recognition, a custom MoveIt API for motion planning, and fine-tuned MobileNet for hand detection, this solution empowers a Franka Emika Panda robot arm to play Jenga with finesse.</p>
     </div>
   </div>
 </div>
@@ -173,7 +207,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>A project that combines dependency parsing and pre-trained language models using edge-conditioned graph convolutional networks (GCN) for sentiment analysis, achieving 87.36% accuracy on IMDB binary classification with fewer parameters than traditional methods, while maintaining interpretability by representing sentences as graphs with both semantic and syntactic features.</p>
+      <p>Merging dependency parsing with pre-trained language models through edge-conditioned graph convolutional networks, this approach attains 87.36% accuracy on IMDB binary sentiment analysis using fewer parameters than traditional methods—all while keeping sentence representations both semantic and syntactic.</p>
     </div>
   </div>
 </div>
@@ -191,7 +225,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>A project implementing trajectory planning and control for a KUKA youBot mobile manipulator (featuring a 5R robot arm mounted on a four-wheeled mecanum base), which performs an eight-segment pick-and-place operation using feedforward control and odometry-based kinematics simulation to accurately move blocks between specified locations.</p>
+      <p>Here, trajectory planning and control were implemented for a KUKA youBot mobile manipulator—a 5R arm on a four-wheeled mecanum base—to execute an eight-segment pick-and-place routine using feedforward control and odometry-based kinematics simulation for precise object transfer.</p>
     </div>
   </div>
 </div>
@@ -209,7 +243,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project optimized monocular visual odometry by implementing a region-of-interest (ROI) based approach for feature detection, significantly reducing computational requirements while maintaining accuracy compared to traditional methods that process entire image frames.</p>
+      <p>Optimizing monocular visual odometry through a region-of-interest (ROI) strategy for feature detection, this solution significantly cuts computational demands while preserving the accuracy usually achieved by processing whole image frames.</p>
     </div>
   </div>
 </div>
@@ -227,7 +261,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project implemented two swarm control algorithms: one simulating the Brazil nut effect for spatial sorting of robots by size, and another replicating Reynolds' flocking behavior to coordinate robot movement like bird flocks, with both systems using distributed control methods.</p>
+      <p>Two swarm control algorithms were developed: one mimics the Brazil nut effect to spatially sort robots by size, and the other replicates Reynolds' flocking behavior to coordinate movement reminiscent of bird flocks—all using distributed control techniques.</p>
     </div>
   </div>
 </div>
@@ -245,7 +279,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project built an autonomous quadrotor drone by implementing IMU integration, PID control systems, manual joystick control, and Vive lighthouse positioning, enabling both manual and autonomous flight capabilities.</p>
+      <p>An autonomous quadrotor drone was built using IMU integration, PID control, joystick input, and Vive lighthouse positioning, resulting in a versatile platform capable of both manual and autonomous flight.</p>
     </div>
   </div>
 </div>
@@ -263,7 +297,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>Inspired by Mario Kart, this project involved creating a line-following motorcycle that uses a Raspberry Pi Pico W for image processing and a PIC microcontroller for steering control, complete with custom-designed PCBs, earning "Best Design" at the 2023 Northwestern Tech Cup.</p>
+      <p>Inspired by Mario Kart, a line-following motorcycle was built using a Raspberry Pi Pico W for image processing and a PIC microcontroller for precise steering control, complete with custom-designed PCBs — earning “Best Design” at the 2023 Northwestern Tech Cup.</p>
     </div>
   </div>
 </div>
@@ -317,7 +351,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>This project developed Orchestration Scripts, a framework that supports effective work practices by detecting workplace situations and providing tailored strategies using computational abstractions of organizational processes, structures, venues, and tools.</p>
+      <p>Orchestration Scripts is a framework designed to foster effective work practices. It detects various workplace situations and delivers tailored strategies by abstracting organizational processes, structures, venues, and tools into computational concepts.</p>
     </div>
   </div>
 </div>
@@ -335,7 +369,7 @@ I received my M.S. in Robotics and B.S. in Computer Science from Northwestern Un
       </a>
     </div>
     <div class="text-content">
-      <p>A deep learning project that improves facial expression detection accuracy for specific users by combining transfer learning with a two-stage approach: first training a CNN on the general FER-13 dataset, then fine-tuning the model using individual users' facial expression data while keeping the convolutional layers frozen, integrated with OpenCV for face detection.</p>
+      <p>Enhancing facial expression detection for individual users, iExpressionNet employs a two-stage approach. Initially, a CNN is trained on the general FER-13 dataset and then fine-tuned using personalized expression data — with frozen convolutional layers — all integrated with OpenCV for robust face detection.</p>
     </div>
   </div>
 </div>

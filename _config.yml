@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Hang Yin"
-  avatar : "/assets/images/bio-photo1.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Robotics @ Stanford"
   links:
     - label: "Palo Alto, CA"
