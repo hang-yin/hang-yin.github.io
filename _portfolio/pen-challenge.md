@@ -3,6 +3,7 @@ title: "Pen Recognition and Control"
 author_profile: true
 toc: true
 key: 20
+category: "Web Development"
 excerpt: "Computer vision, Manipulation, OpenCV"
 header:
   teaser: /assets/images/pen.gif

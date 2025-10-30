@@ -3,6 +3,7 @@ title: "Feature-based EKF-SLAM from Scratch"
 author_profile: true
 toc: true
 key: 0
+category: "Perception key: 0 Navigation"
 excerpt: "Extended Kalman Filter, Localization, Simulation, C++"
 header:
   teaser: /assets/images/slam_gif.gif

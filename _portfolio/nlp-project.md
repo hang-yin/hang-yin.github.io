@@ -3,6 +3,7 @@ title: "GCN for Sentiment Analysis"
 author_profile: true
 toc: true
 key: 3
+category: "Machine Learning"
 excerpt: "NLP, edge-conditioned GCN, Tensorflow"
 header:
   teaser: /assets/images/nlp_pipeline.jpg

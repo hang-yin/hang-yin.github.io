@@ -3,6 +3,7 @@ title: "Action Chunking with Transformers (ACT) for Assistive Action Prediction"
 author_profile: true
 toc: true
 key: -2
+category: "Manipulation"
 excerpt: "Imitation Learning, data infrastructure, ROS2 Control"
 header:
   teaser: /assets/images/omnids.gif

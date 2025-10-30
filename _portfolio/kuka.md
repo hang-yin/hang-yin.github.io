@@ -3,6 +3,7 @@ title: "KUKA youBot Mobile Manipulation"
 author_profile: true
 toc: true
 key: 5
+category: "Manipulation"
 excerpt: "Trajectory planning, Feedforward control"
 header:
   teaser: /assets/images/449.gif

@@ -3,6 +3,7 @@ title: "Autonomous Robot Chef"
 author_profile: true
 toc: true
 key: -1
+category: "Manipulation"
 excerpt: "LLM, CLIP, MediaPipe, LSTM, ROS2, MoveIt"
 header:
   teaser: /assets/images/robot_chef.gif

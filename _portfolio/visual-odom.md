@@ -3,6 +3,7 @@ title: "ROI-bounded Visual Odometry"
 author_profile: true
 toc: true
 key: 1
+category: "Perception key: 1 Navigation"
 excerpt: "Computer Vision, OpenCV, RealSense Camera"
 header:
   teaser: /assets/images/visual-odom1.gif

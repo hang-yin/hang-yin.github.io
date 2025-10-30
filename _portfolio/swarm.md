@@ -3,6 +3,7 @@ title: "Swarm Shape and Behavior Control"
 author_profile: true
 toc: true
 key: 8
+category: "Perception key: 8 Navigation"
 excerpt: "Distributed control, state machine, Docker, Python"
 header:
   teaser: /assets/images/swarm-tn.png

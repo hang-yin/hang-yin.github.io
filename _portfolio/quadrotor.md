@@ -3,6 +3,7 @@ title: "Quadrotor Control"
 author_profile: true
 toc: true
 key: 2
+category: "Mechatronics"
 excerpt: "Raspberry Pi, PID control, C++"
 header:
   teaser: /assets/images/quadrotor.jpg

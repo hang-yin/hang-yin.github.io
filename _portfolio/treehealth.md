@@ -3,6 +3,7 @@ title: "TreeHealth Mobile App"
 author_profile: true
 toc: true
 key: 12
+category: "Web Development"
 excerpt: "React Native, Javascript"
 header:
   teaser: /assets/images/treehealth.jpg

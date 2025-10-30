@@ -3,6 +3,7 @@ title: "Orchestration Scripting Environment"
 author_profile: true
 toc: true
 key: 11
+category: "Web Development"
 excerpt: "React, Node.js, JavaScript"
 header:
   teaser: /assets/images/os-env.jpg

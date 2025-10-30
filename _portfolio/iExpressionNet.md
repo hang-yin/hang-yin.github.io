@@ -3,6 +3,7 @@ title: "iExpressionNet"
 author_profile: true
 toc: true
 key: 4
+category: "Machine Learning"
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
 header:
   teaser: /assets/images/emotion_detection.png

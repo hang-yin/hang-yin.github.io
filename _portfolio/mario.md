@@ -3,6 +3,7 @@ title: "Mario Motorcycle"
 author_profile: true
 toc: true
 key: 3
+category: "Mechatronics"
 excerpt: "C, PCB design, CAD, Motor Control, CV"
 header:
   teaser: /assets/images/mario-luigi.png

@@ -3,6 +3,7 @@ title: "Rapidly-Exploring Random Tree for path planning"
 author_profile: true
 toc: true
 key: 10
+category: "Perception key: 10 Navigation"
 excerpt: "Path planning, Python"
 header:
   teaser: /assets/images/RRT_arbitrary_obstacle.jpg

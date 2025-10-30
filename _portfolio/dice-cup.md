@@ -3,6 +3,7 @@ title: "Dice in a Cup Simulation from Scratch"
 author_profile: true
 toc: true
 key: 9
+category: "Mechatronics"
 excerpt: "Lagrangian Dynamics, SymPy"
 header:
   teaser: /assets/images/314.gif
