@@ -1,10 +1,11 @@
 ---
-title: "Mario Motorcycle"
+title: "Line-Following Autonomous Motorcycle"
 author_profile: true
 toc: true
-key: 3
+key: 6
 category: "Mechatronics"
 excerpt: "C, PCB design, CAD, Motor Control, CV"
+description: "Inspired by Mario Kart, this project combines embedded systems, computer vision, and mechanical design into a line-following motorcycle that won 'Best Design' at the 2023 Northwestern Tech Cup. A Raspberry Pi Pico W processes camera images to detect line position, a PIC32 microcontroller handles real-time servo control for steering, and custom-designed PCBs integrate power management and motor control. The mechanical challenge of balancing a two-wheeled platform while following curves at speed required tuning both the vision pipeline and control loop. It's a reminder that robotics isn't just algorithms—mechatronics integration and physical debugging are often the hardest parts."
 header:
   teaser: /assets/images/mario-luigi.png
 classes: wide

@@ -1,10 +1,11 @@
 ---
-title: "ROI-bounded Visual Odometry"
+title: "Region-Optimized Monocular Visual Odometry"
 author_profile: true
 toc: true
-key: 1
-category: "Perception key: 1 Navigation"
+key: 7
+category: "Perception & Navigation"
 excerpt: "Computer Vision, OpenCV, RealSense Camera"
+description: "Standard visual odometry processes entire image frames, which is computationally expensive and includes many uninformative regions. This project optimizes the classic VO pipeline by intelligently selecting regions of interest for feature detection and tracking. By focusing computational resources on high-gradient areas likely to yield good features, the system maintains localization accuracy while dramatically reducing processing time. Implemented with OpenCV and tested on RealSense camera data, it demonstrates how simple heuristics for attention can make real-time vision algorithms practical on resource-constrained platforms."
 header:
   teaser: /assets/images/visual-odom1.gif
 classes: wide

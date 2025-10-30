@@ -1,10 +1,11 @@
 ---
-title: "KUKA youBot Mobile Manipulation"
+title: "Trajectory Optimization for Mobile Manipulation"
 author_profile: true
 toc: true
 key: 5
 category: "Manipulation"
 excerpt: "Trajectory planning, Feedforward control"
+description: "This project implements feedforward-plus-feedback control for a KUKA youBot—a 5-DOF arm mounted on a mecanum-wheeled base. The challenge lies in coordinating the arm and base to execute smooth pick-and-place operations while avoiding joint limits and singularities. I developed trajectory planning algorithms that exploit the mobile base's omnidirectional capabilities to improve reachability and implemented odometry-based simulation to validate the control approach before hardware deployment. It's a clean example of how mobile manipulation compounds the complexity of fixed-base arms by adding base positioning into the control loop."
 header:
   teaser: /assets/images/449.gif
 classes: wide

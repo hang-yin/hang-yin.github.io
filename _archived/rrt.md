@@ -1,10 +1,11 @@
 ---
-title: "Rapidly-Exploring Random Tree for path planning"
+title: "Sampling-Based Motion Planning with RRT"
 author_profile: true
 toc: true
 key: 10
-category: "Perception key: 10 Navigation"
+category: "Perception & Navigation"
 excerpt: "Path planning, Python"
+description: "Implemented Steven LaValle's Rapidly-exploring Random Tree algorithm for motion planning in complex environments. RRT efficiently explores high-dimensional configuration spaces by randomly sampling and incrementally growing a search tree toward unexplored regions. I built versions handling circular obstacles, arbitrary polygonal obstacles, and extended it to RRT* for asymptotically optimal paths. The beauty of RRT is its probabilistic completeness—given enough time, it will find a path if one exists—without requiring explicit space discretization that would be intractable in high dimensions."
 header:
   teaser: /assets/images/RRT_arbitrary_obstacle.jpg
 classes: wide

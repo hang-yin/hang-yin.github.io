@@ -1,10 +1,11 @@
 ---
-title: "TreeHealth Mobile App"
+title: "TreeHealth: Urban Forestry Management App"
 author_profile: true
 toc: true
 key: 12
 category: "Web Development"
 excerpt: "React Native, Javascript"
+description: "A React Native mobile application for urban forestry management. TreeHealth helps municipalities and community organizations track and maintain urban tree populations by providing tools for inventory management, health assessment workflows, maintenance scheduling, and data visualization. The app works offline-first for field use, syncing data when connectivity is available. While not a robotics project, it showcases full-stack mobile development skills and demonstrates how well-designed software tools can enable better stewardship of environmental resources."
 header:
   teaser: /assets/images/treehealth.jpg
 classes: wide

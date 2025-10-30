@@ -1,10 +1,11 @@
 ---
-title: "Swarm Shape and Behavior Control"
+title: "Emergent Behavior in Multi-Robot Swarms"
 author_profile: true
 toc: true
 key: 8
-category: "Perception key: 8 Navigation"
+category: "Perception & Navigation"
 excerpt: "Distributed control, state machine, Docker, Python"
+description: "Implemented two distributed control algorithms that create complex emergent behaviors from simple local rules. The first mimics the Brazil nut effect to spatially segregate robots by size without centralized coordination. The second replicates Reynolds' flocking behavior—separation, alignment, and cohesion—to produce bird-like group movement. Each robot runs identical control code and makes decisions based only on nearby neighbors, yet the swarm exhibits sophisticated collective patterns. Built with Docker for easy simulation deployment, this project showcases how decentralized systems can achieve coordination that would be fragile or impossible with centralized control."
 header:
   teaser: /assets/images/swarm-tn.png
 classes: wide

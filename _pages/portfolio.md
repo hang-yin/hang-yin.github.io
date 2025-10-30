@@ -68,13 +68,13 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
 
 <div class="container">
   <div class="image-container">
-    <a href="https://momagen-rss.github.io/">
+    <a href="https://momagen.github.io/">
       <img src="{{site.baseurl}}/assets/images/momagen.png" alt="momagen">
     </a>
   </div>
   <div class="text-container">
     <div class="header-row">
-      <a href="https://momagen-rss.github.io/" class="title-link">
+      <a href="https://momagen.github.io/" class="title-link">
         <h3>MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation</h3>
       </a>
     </div>
@@ -136,8 +136,11 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
         <h3>{{ item.title }}</h3>
       </a>
     </div>
+    <div class="tech-stack">
+      <p><em>{{ item.excerpt }}</em></p>
+    </div>
     <div class="text-content">
-      <p>{{ item.excerpt }}</p>
+      <p>{{ item.description }}</p>
     </div>
   </div>
 </div>
@@ -207,6 +210,16 @@ table img {
 .title-link:hover h3 {
   color: #0066cc;
   text-decoration: underline;
+}
+
+.tech-stack {
+  margin-bottom: 0.5rem;
+}
+
+.tech-stack p {
+  margin: 0;
+  font-size: 0.6rem;
+  color: #777;
 }
 
 .text-content p {

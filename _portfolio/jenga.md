@@ -1,10 +1,11 @@
 ---
-title: "Robot Jenga Assistant"
+title: "Vision-Based Jenga Playing with Franka"
 author_profile: true
 toc: true
 key: 1
 category: "Manipulation"
 excerpt: "ROS2, MoveIt, OpenCV, Machine Learning"
+description: "Teaching a Franka Emika Panda arm to play Jenga required solving several computer vision and manipulation challenges simultaneously. The system uses custom OpenCV algorithms to detect the tower structure and identify removable blocks, MoveIt for collision-free motion planning in tight spaces, and a fine-tuned MobileNet to detect when human hands enter the workspace for safe turn-taking. The precision required—gently extracting blocks without toppling the tower—pushed the limits of force control and visual servoing. It's a deceptively simple game that demands careful integration of perception, planning, and delicate contact-rich manipulation."
 header:
   teaser: /assets/images/jenga.gif
 classes: wide

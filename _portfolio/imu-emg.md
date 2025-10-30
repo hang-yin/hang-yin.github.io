@@ -1,10 +1,11 @@
 ---
-title: "IMU Controlled Robot Arm"
+title: "Bio-Signal Controlled Robotic Manipulator"
 author_profile: true
 toc: true
-key: 6
+key: 9
 category: "Mechatronics"
 excerpt: "C, Embedded System, IMU, EMG"
+description: "A collaborative project that created the 'IMUGripulator'—a 2-DOF robotic arm system combining IMU-based joint control and EMG-based gripper actuation. Tilt sensors on a wearable IMU control shoulder and elbow joints, while muscle activation signals trigger gripper open/close. Built with micro:bit v2 microcontrollers and programmed in C, the system includes capacitive touch controls for adjusting sensitivity. This project bridges human biomechanics and robotics, exploring intuitive teleoperation interfaces that feel natural because they map directly to human movement and muscle activation rather than abstract joystick inputs."
 header:
   teaser: /assets/images/imu-emg.jpg
 classes: wide

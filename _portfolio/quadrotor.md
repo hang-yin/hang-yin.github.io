@@ -1,10 +1,11 @@
 ---
-title: "Quadrotor Control"
+title: "Custom Quadrotor with PID Control and Lighthouse Tracking"
 author_profile: true
 toc: true
 key: 2
 category: "Mechatronics"
 excerpt: "Raspberry Pi, PID control, C++"
+description: "Designed and built a quadrotor from the ground up, including airframe design, sensor integration, and flight control software. The system fuses IMU data through a complementary filter to estimate orientation, implements cascaded PID controllers for stable flight, supports joystick teleoperation with safety limits, and integrates HTC Vive Lighthouse for precise 3D positioning to enable autonomous waypoint navigation. Every component—from motor calibration to sensor fusion to control tuning—required careful engineering. It's immensely satisfying when all the pieces come together and the quad lifts off smoothly, and equally humbling when a single miscalibrated parameter sends it spinning."
 header:
   teaser: /assets/images/quadrotor.jpg
 classes: wide

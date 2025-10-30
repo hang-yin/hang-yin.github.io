@@ -1,10 +1,11 @@
 ---
-title: "GCN for Sentiment Analysis"
+title: "Syntactic Graph Networks for Sentiment Analysis"
 author_profile: true
 toc: true
 key: 3
 category: "Machine Learning"
 excerpt: "NLP, edge-conditioned GCN, Tensorflow"
+description: "This project explores whether explicitly encoding syntactic structure improves sentiment classification. I combined dependency parsing with edge-conditioned graph convolutional networks, allowing the model to reason about how words relate grammatically, not just sequentially. By representing sentences as dependency graphs and learning on this structure, the model achieved 87.36% accuracy on IMDB sentiment analysis while using fewer parameters than transformer baselines. It's an interesting case study in whether linguistic priors can make models more parameter-efficient and interpretable, even if transformers ultimately learn similar structures implicitly."
 header:
   teaser: /assets/images/nlp_pipeline.jpg
 classes: wide

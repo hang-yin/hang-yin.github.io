@@ -1,10 +1,11 @@
 ---
-title: "iExpressionNet"
+title: "Personalized Facial Expression Recognition"
 author_profile: true
 toc: true
 key: 4
 category: "Machine Learning"
 excerpt: "Machine Learning, CNN, OpenCV, PyTorch"
+description: "General facial expression classifiers often fail to generalize across different faces and lighting conditions. This project tackles that limitation through transfer learning: first training a CNN on the large FER-13 dataset to learn general expression features, then fine-tuning on individual users' faces by freezing convolutional layers and retraining only the classifier head. The result is a system that maintains broad expression knowledge while adapting to specific users' facial characteristics. Integrated with OpenCV for real-time face detection, it demonstrates how strategic layer freezing can personalize computer vision models with minimal additional data."
 header:
   teaser: /assets/images/emotion_detection.png
 classes: wide

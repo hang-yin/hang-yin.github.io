@@ -1,10 +1,11 @@
 ---
-title: "Feature-based EKF-SLAM from Scratch"
+title: "Probabilistic SLAM with Extended Kalman Filtering"
 author_profile: true
 toc: true
 key: 0
-category: "Perception key: 0 Navigation"
+category: "Perception & Navigation"
 excerpt: "Extended Kalman Filter, Localization, Simulation, C++"
+description: "Built a complete EKF-SLAM system from first principles in C++ without relying on existing libraries. The system simultaneously estimates robot pose and builds a map of landmark features, handling the classic chicken-and-egg problem of localization and mapping. I implemented custom data association algorithms for landmark matching, tuned process and measurement noise models, and visualized everything in RViz. What's satisfying about implementing SLAM from scratch is seeing how the landmark uncertainty ellipses shrink as loop closures constrain the map, and debugging when they don't—it forces deep understanding of probabilistic robotics fundamentals."
 header:
   teaser: /assets/images/slam_gif.gif
 classes: wide

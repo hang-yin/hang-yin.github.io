@@ -1,10 +1,11 @@
 ---
-title: "Lifecapsule Mobile App"
+title: "Lifecapsule: Digital Legacy Platform"
 author_profile: true
 toc: true
 key: 13
 category: "Web Development"
 excerpt: "React Native, Javascript"
+description: "Lifecapsule is a mobile application built with React Native that helps users create digital time capsules of memories, messages, and media to share with future recipients. The app provides intuitive UX for curating content, setting delivery conditions, and managing access permissions. It explores interesting design questions around data persistence, privacy, and the emotional weight of software—how do you build something meant to outlast its creator? The technical implementation covers React Native development, cloud storage integration, and thoughtful UX design for sensitive personal content."
 header:
   teaser: /assets/images/lifecapsule.jpg
 classes: wide

@@ -1,10 +1,11 @@
 ---
-title: "Pen Recognition and Control"
+title: "Vision-Based Pen Manipulation System"
 author_profile: true
 toc: true
 key: 20
 category: "Web Development"
 excerpt: "Computer vision, Manipulation, OpenCV"
+description: "A computer vision system that recognizes and manipulates pens using OpenCV. The system detects pen position and orientation in camera frames, estimates 3D pose, and generates manipulation commands for a robotic gripper. While categorized as web development in the original structure, this is actually a vision and manipulation project that demonstrates classical computer vision techniques—color segmentation, contour detection, perspective geometry—applied to a practical tabletop manipulation task. It's a good example of how far classical CV can take you before deep learning becomes necessary."
 header:
   teaser: /assets/images/pen.gif
 classes: wide

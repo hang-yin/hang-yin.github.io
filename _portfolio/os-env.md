@@ -1,10 +1,11 @@
 ---
-title: "Orchestration Scripting Environment"
+title: "Computational Framework for Workplace Collaboration"
 author_profile: true
 toc: true
 key: 11
 category: "Web Development"
 excerpt: "React, Node.js, JavaScript"
+description: "Orchestration Scripts is a research platform that models organizational workflows as computational abstractions. The system detects workplace situations through various sensors and APIs, then delivers context-appropriate collaboration strategies by representing processes, team structures, physical spaces, and tools as programmable entities. Built with React and Node.js, it explores how software can foster better work practices by making implicit organizational patterns explicit and actionable. This project sits at the intersection of HCI, knowledge work, and systems design—thinking about how computational tools can augment human collaboration rather than just automate individual tasks."
 header:
   teaser: /assets/images/os-env.jpg
 classes: wide
