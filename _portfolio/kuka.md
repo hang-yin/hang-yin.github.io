@@ -5,7 +5,7 @@ toc: true
 key: 5
 category: "Manipulation"
 excerpt: "Trajectory planning, Feedforward control"
-description: "Implements feedforward-plus-feedback control for a KUKA youBot—a 5-DOF arm mounted on a mecanum-wheeled base. I developed trajectory planning algorithms that exploit the mobile base's omnidirectional capabilities to improve reachability and implemented odometry-based simulation to validate the control approach before hardware deployment."
+description: "Implements feedforward-plus-feedback control for a KUKA youBot—a 5-DOF arm mounted on a mecanum-wheeled base. The project developed trajectory planning algorithms that exploit the mobile base's omnidirectional capabilities to improve reachability and implemented odometry-based simulation to validate the control approach before hardware deployment."
 header:
   teaser: /assets/images/449.gif
 classes: wide

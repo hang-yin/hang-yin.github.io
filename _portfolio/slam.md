@@ -5,7 +5,7 @@ toc: true
 key: 0
 category: "Perception & Navigation"
 excerpt: "Extended Kalman Filter, Localization, Simulation, C++"
-description: "Built a complete EKF-SLAM system from first principles in C++ without relying on existing libraries. The system simultaneously estimates robot pose and builds a map of landmark features. I implemented custom data association algorithms for landmark matching, tuned process and measurement noise models, and visualized everything in RViz."
+description: "Built a complete EKF-SLAM system from first principles in C++ without relying on existing libraries. The system simultaneously estimates robot pose and builds a map of landmark features, using custom data association algorithms for landmark matching, tuned process and measurement noise models, and RViz visualization."
 header:
   teaser: /assets/images/slam_gif.gif
 classes: wide

@@ -5,7 +5,7 @@ toc: true
 key: -2
 category: "Manipulation"
 excerpt: "Imitation Learning, data infrastructure, ROS2 Control"
-description: "Working with Northwestern's Omnid Mocobots—mobile platforms designed for collaborative payload transport—I implemented and compared two imitation learning approaches: Action Chunking with Transformers (ACT) and Diffusion Policy. The project involved building a complete ROS2 data infrastructure, migrating legacy code from ROS1, integrating ros2_control, collecting human demonstrations with multi-camera setups, and deploying visuomotor policies that predict assistive forces to reduce human effort during co-manipulation tasks."
+description: "Working with Northwestern's Omnid Mocobots—mobile platforms designed for collaborative payload transport—this project implemented and compared two imitation learning approaches: Action Chunking with Transformers (ACT) and Diffusion Policy. The work involved building a complete ROS2 data infrastructure, migrating legacy code from ROS1, integrating ros2_control, collecting human demonstrations with multi-camera setups, and deploying visuomotor policies that predict assistive forces to reduce human effort during co-manipulation tasks."
 header:
   teaser: /assets/images/omnids.gif
 classes: wide
