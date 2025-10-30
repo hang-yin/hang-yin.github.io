@@ -5,7 +5,7 @@ toc: true
 key: -1
 category: "Manipulation"
 excerpt: "LLM, CLIP, MediaPipe, LSTM, ROS2, MoveIt"
-description: "A multimodal system that combines voice interaction, vision, and manipulation for robot-assisted cooking. Users give natural language commands through Alexa, which are processed by an LLM to generate recipe steps. The system uses CLIP for zero-shot object recognition, MediaPipe with LSTM for hand gesture detection to coordinate human-robot handoffs, and MoveIt for motion planning. What makes this interesting is the tight integration of different AI modalities—language understanding, computer vision, gesture recognition, and motion planning—all working together in a real kitchen environment with real-time human collaboration."
+description: "A multimodal system combining voice interaction, vision, and manipulation for robot-assisted cooking. Users give natural language commands through Alexa, which are processed by an LLM to generate recipe steps. The system uses CLIP for zero-shot object recognition, MediaPipe with LSTM for hand gesture detection to coordinate human-robot handoffs, and MoveIt for motion planning."
 header:
   teaser: /assets/images/robot_chef.gif
 classes: wide

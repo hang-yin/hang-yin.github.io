@@ -136,9 +136,6 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
         <h3>{{ item.title }}</h3>
       </a>
     </div>
-    <div class="tech-stack">
-      <p><em>{{ item.excerpt }}</em></p>
-    </div>
     <div class="text-content">
       <p>{{ item.description }}</p>
     </div>
@@ -210,16 +207,6 @@ table img {
 .title-link:hover h3 {
   color: #0066cc;
   text-decoration: underline;
-}
-
-.tech-stack {
-  margin-bottom: 0.5rem;
-}
-
-.tech-stack p {
-  margin: 0;
-  font-size: 0.6rem;
-  color: #777;
 }
 
 .text-content p {

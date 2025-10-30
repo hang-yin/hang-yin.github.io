@@ -5,7 +5,7 @@ toc: true
 key: 14
 category: "Mechatronics"
 excerpt: "Lagrangian Dynamics, SymPy"
-description: "Implemented a physics simulator for a dice bouncing inside a spinning cup—a surprisingly complex 6-DOF system involving rigid body dynamics, contact mechanics, and collision detection. Using Lagrangian mechanics and SymPy for symbolic derivation, the simulator handles corner-edge collisions between the dice and cup walls while maintaining energy conservation and accounting for gravitational and external forces. There's no physics engine here—every equation was derived and implemented from first principles. Projects like this reveal how much complexity lies beneath 'simple' physical interactions, and why physics simulation remains a hard problem in robotics."
+description: "Implemented a physics simulator for a dice bouncing inside a spinning cup—a 6-DOF system involving rigid body dynamics, contact mechanics, and collision detection. Using Lagrangian mechanics and SymPy for symbolic derivation, the simulator handles corner-edge collisions between the dice and cup walls while maintaining energy conservation."
 header:
   teaser: /assets/images/314.gif
 classes: wide

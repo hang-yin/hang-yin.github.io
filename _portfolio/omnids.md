@@ -5,7 +5,7 @@ toc: true
 key: -2
 category: "Manipulation"
 excerpt: "Imitation Learning, data infrastructure, ROS2 Control"
-description: "This work explores how robots can anticipate and assist human partners during co-manipulation tasks. Working with Northwestern's Omnid Mocobots—mobile platforms designed for collaborative payload transport—I implemented and compared two modern imitation learning approaches: Action Chunking with Transformers (ACT) and Diffusion Policy. The project required building a complete ROS2 data infrastructure, migrating legacy code from ROS1, integrating ros2_control, collecting human demonstrations with multi-camera setups, and deploying visuomotor policies that predict assistive forces to reduce human effort. It's challenging because the robot must infer intent from subtle visual and force cues in real-time."
+description: "Working with Northwestern's Omnid Mocobots—mobile platforms designed for collaborative payload transport—I implemented and compared two imitation learning approaches: Action Chunking with Transformers (ACT) and Diffusion Policy. The project involved building a complete ROS2 data infrastructure, migrating legacy code from ROS1, integrating ros2_control, collecting human demonstrations with multi-camera setups, and deploying visuomotor policies that predict assistive forces to reduce human effort during co-manipulation tasks."
 header:
   teaser: /assets/images/omnids.gif
 classes: wide
