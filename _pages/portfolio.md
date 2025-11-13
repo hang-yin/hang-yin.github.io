@@ -9,42 +9,45 @@ redirect_from:
 ---
 
 ## About Me
-
+<small>
 I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), where I focus on robotics research. My work centers on developing 3D robot simulations and curating datasets to advance robot learning.
+</small>
 
-## Professional Experience
-<table>
-  <tbody>
-    <tr>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
-      <td style = "border-bottom-width:0;">
-        <strong>Stanford AI Lab</strong> <br> 01/2024 - present <br> Software Developer 2</td>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
-      <td style = "border-bottom-width:0;">
-        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; align-items: center; gap: 10px;">
+<h2 style="margin: 0;">News</h2>
+<a id="news-toggle" style="font-size: 0.7em; cursor: pointer; color: #2f7d95; text-decoration: none;">[expand]</a>
+</div>
+<div style="font-size: 0.75em;">
+<ul style="line-height: 1.4; margin-top: 0.5em; margin-bottom: 0.5em;">
+<li>Dec. 2025 - Presenting results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
+<li>Nov. 2025 - Presented behind-the-scenes on the BEHAVIOR Challenge at <a href="https://bayarearoboticssymposium.github.io/">BARS 2025</a></li>
+<li>Nov. 2025 - Featured in World Labs' official launch of <a href="https://www.worldlabs.ai/case-studies/simulate-1">Marble</a></li>
+<li>Oct. 2025 - Released <a href="https://momagen.github.io/">MoMaGen</a></li>
+<li>Sep. 2025 - BEHAVIOR Challenge covered by <a href="https://hai.stanford.edu/news/behavior-challenge-charts-the-way-forward-for-domestic-robotics">Stanford HAI</a></li>
+<li class="news-item-hidden">Sep. 2025 - Launched the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a></li>
+<li class="news-item-hidden">Aug. 2025 - <a href="https://behavior-robot-suite.github.io/">BEHAVIOR Robot Suite (BRS)</a> accepted at CoRL 2025</li>
+<li class="news-item-hidden">Mar. 2024 - Full release of BEHAVIOR-1K presented at <a href="https://developer.nvidia.com/blog/teaching-robots-to-tackle-household-chores/">NVIDIA GTC 2024</a></li>
+<li class="news-item-hidden">Jan. 2024 - Joined Stanford Vision and Learning Lab as Research Engineer</li>
+</ul>
+</div>
 
-## Education
-<table>
-  <tbody>
-    <tr>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2022 - 12/2023 <br> M.S. in Robotics
-      </td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern University</strong> <br> 09/2019 - 06/2022 <br> B.S. with honors in Computer Science, <em>summa cum laude</em>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<script>
+document.getElementById('news-toggle').addEventListener('click', function() {
+  var hiddenItems = document.querySelectorAll('.news-item-hidden');
+  var isExpanded = hiddenItems[0].style.display === 'list-item';
 
+  hiddenItems.forEach(function(item) {
+    item.style.display = isExpanded ? 'none' : 'list-item';
+  });
+
+  this.textContent = isExpanded ? '[expand]' : '[collapse]';
+});
+
+// Initialize hidden items
+document.querySelectorAll('.news-item-hidden').forEach(function(item) {
+  item.style.display = 'none';
+});
+</script>
 
 ## Research
 
@@ -119,6 +122,39 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
     </div>
   </div>
 </div>
+
+## Professional Experience
+<table>
+  <tbody>
+    <tr>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
+      <td style = "border-bottom-width:0;">
+        <strong>Stanford AI Lab</strong> <br> 01/2024 - 01/2026 <br> Software Developer 2</td>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
+      <td style = "border-bottom-width:0;">
+        <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
+    </tr>
+  </tbody>
+</table>
+
+## Education
+<table>
+  <tbody>
+    <tr>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Northwestern University</strong> <br> 09/2022 - 12/2023 <br> M.S. in Robotics
+      </td>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;">
+        <strong>Northwestern University</strong> <br> 09/2019 - 06/2022 <br> B.S. with honors in Computer Science, <em>summa cum laude</em>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Past Projects
 
