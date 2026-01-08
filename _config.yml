@@ -26,6 +26,13 @@ baseurl: ""
 
 repository: "hang-yin/hang-yin.github.io"
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-TL43X3464R"
+    anonymize_ip: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
