@@ -19,9 +19,9 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
 </div>
 <div style="font-size: 0.75em;">
 <ul style="line-height: 1.4; margin-top: 0.5em; margin-bottom: 0.5em;">
-<li>Dec. 2025 - Presenting results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
+<li>Dec. 2025 - Presented results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
 <li>Nov. 2025 - Presented behind-the-scenes on the BEHAVIOR Challenge at <a href="https://bayarearoboticssymposium.github.io/">BARS 2025</a></li>
-<li>Nov. 2025 - Featured in World Labs' official launch of <a href="https://www.worldlabs.ai/case-studies/simulate-1">Marble</a></li>
+<li>Nov. 2025 - Featured in World Labs' official launch of <a href="https://www.worldlabs.ai/case-studies/1-robotics">Marble</a></li>
 <li>Oct. 2025 - Released <a href="https://momagen.github.io/">MoMaGen</a></li>
 <li>Sep. 2025 - BEHAVIOR Challenge covered by <a href="https://hai.stanford.edu/news/behavior-challenge-charts-the-way-forward-for-domestic-robotics">Stanford HAI</a></li>
 <li class="news-item-hidden">Sep. 2025 - Launched the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a></li>
@@ -65,6 +65,24 @@ document.querySelectorAll('.news-item-hidden').forEach(function(item) {
     </div>
     <div class="text-content">
       <p>The BEHAVIOR Challenge at NeurIPS 2025 invites researchers to tackle long-horizon, everyday household tasks in realistic virtual home environments, supported by a large dataset of 10,000 richly annotated expert trajectories (over 1,200 hours) to advance robot planning and control in complex, human-centric settings.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <a href="https://enact-embodied-cognition.github.io/">
+      <img src="{{site.baseurl}}/assets/images/enact.png" alt="enact">
+    </a>
+  </div>
+  <div class="text-container">
+    <div class="header-row">
+      <a href="https://enact-embodied-cognition.github.io/" class="title-link">
+        <h3>ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction</h3>
+      </a>
+    </div>
+    <div class="text-content">
+      <p>ENACT evaluates embodied cognition in vision-language models through forward and inverse world modeling tasks. Using 8,972 QA pairs from the BEHAVIOR challenge, it tests affordance recognition, action-effect reasoning, and long-horizon memory from egocentric observations.</p>
     </div>
   </div>
 </div>
