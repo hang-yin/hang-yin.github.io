@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 <small>
-I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), where I focus on robotics research. My work centers on developing 3D robot simulations and curating datasets to advance robot learning.
+I'm a Member of Technical Staff at OpenAI, working on robotics. Previously, I had the privilege of working with Prof. Fei-Fei Li and Prof. Jiajun Wu on the BEHAVIOR project at the [Stanford Vision & Learning Lab](https://svl.stanford.edu/), focusing on 3D robot simulation and dataset curation to advance robot learning.
 </small>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -19,8 +19,8 @@ I'm a Software Engineer at the [Stanford Vision & Learning Lab](https://svl.stan
 </div>
 <div style="font-size: 0.75em;">
 <ul style="line-height: 1.4; margin-top: 0.5em; margin-bottom: 0.5em;">
-<li>Dec. 2025 - Presented results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
-<li>Nov. 2025 - Presented behind-the-scenes on the BEHAVIOR Challenge at <a href="https://bayarearoboticssymposium.github.io/">BARS 2025</a></li>
+<li>Dec. 2025 - Shared results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
+<li>Nov. 2025 - Behind-the-scenes on the BEHAVIOR Challenge at <a href="https://bayarearoboticssymposium.github.io/">BARS 2025</a></li>
 <li>Nov. 2025 - Featured in World Labs' official launch of <a href="https://www.worldlabs.ai/case-studies/1-robotics">Marble</a></li>
 <li>Oct. 2025 - Released <a href="https://momagen.github.io/">MoMaGen</a></li>
 <li>Sep. 2025 - BEHAVIOR Challenge covered by <a href="https://hai.stanford.edu/news/behavior-challenge-charts-the-way-forward-for-domestic-robotics">Stanford HAI</a></li>
@@ -145,15 +145,15 @@ document.querySelectorAll('.news-item-hidden').forEach(function(item) {
 <table>
   <tbody>
     <tr>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/openai.png" alt="openai" width="60"></td>
+      <td style = "border-bottom-width:0;">
+        <strong>OpenAI</strong> <br> 01/2026 - Present <br> Member of Technical Staff</td>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>Stanford AI Lab</strong> <br> 01/2024 - 01/2026 <br> Software Developer 2</td>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/delta-lab.png" alt="nu" width="60"></td>
-      <td style="border-bottom-width:0;">
-        <strong>Northwestern Delta Lab</strong> <br> 03/2021 - 06/2022 <br> Research Assistant</td>
     </tr>
   </tbody>
 </table>

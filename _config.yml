@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Hang Yin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Robotics @ Stanford"
+  bio    : "Robotics @ OpenAI"
   links:
     - label: "Palo Alto, CA"
       icon: "fas fa-fw fa-map-marker-alt"
@@ -86,7 +86,7 @@ author:
       url: "https://twitter.com/Hang_Yin_"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "mailto:yinhang@stanford.edu"
+      url: "mailto:yinhang0226@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/hangyin0226/"
