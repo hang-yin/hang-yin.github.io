@@ -19,6 +19,7 @@ I'm a Member of Technical Staff at OpenAI, working on robotics. Previously, I ha
 </div>
 <div style="font-size: 0.75em;">
 <ul style="line-height: 1.4; margin-top: 0.5em; margin-bottom: 0.5em;">
+<li>Jan. 2026 - Started at OpenAI on the robotics team</li>
 <li>Dec. 2025 - Shared results from the 1st <a href="https://behavior.stanford.edu/challenge/">BEHAVIOR Challenge</a> at NeurIPS 2025</li>
 <li>Nov. 2025 - Behind-the-scenes on the BEHAVIOR Challenge at <a href="https://bayarearoboticssymposium.github.io/">BARS 2025</a></li>
 <li>Nov. 2025 - Featured in World Labs' official launch of <a href="https://www.worldlabs.ai/case-studies/1-robotics">Marble</a></li>
@@ -151,7 +152,7 @@ document.querySelectorAll('.news-item-hidden').forEach(function(item) {
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>Stanford AI Lab</strong> <br> 01/2024 - 01/2026 <br> Software Developer 2</td>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-and-johnson.png" alt="j&j" width="60"></td>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-johnson.jpg" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
     </tr>
