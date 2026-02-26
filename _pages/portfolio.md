@@ -149,9 +149,9 @@ document.querySelectorAll('.news-item-hidden').forEach(function(item) {
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/openai.png" alt="openai" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>OpenAI</strong> <br> 01/2026 - Present <br> Member of Technical Staff</td>
-      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/sail.png" alt="stanford" width="60"></td>
+      <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/stanford.png" alt="stanford" width="60"></td>
       <td style = "border-bottom-width:0;">
-        <strong>Stanford AI Lab</strong> <br> 01/2024 - 01/2026 <br> Software Developer 2</td>
+        <strong>Stanford</strong> <br> 01/2024 - 01/2026 <br> Research Engineer</td>
       <td style = "border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/johnson-johnson.jpg" alt="j&j" width="60"></td>
       <td style = "border-bottom-width:0;">
         <strong>Johnson & Johnson</strong> <br> 06/2023 - 09/2023 <br> Robotics & Controls</td>
