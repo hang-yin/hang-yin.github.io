@@ -163,11 +163,11 @@ document.querySelectorAll('.news-item-hidden').forEach(function(item) {
 <table>
   <tbody>
     <tr>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.png" alt="nu" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Northwestern University</strong> <br> 09/2022 - 12/2023 <br> M.S. in Robotics
       </td>
-      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.jpg" alt="nu" width="60"></td>
+      <td style="border-bottom-width:0;"><img src="{{site.baseurl}}/assets/images/northwestern.png" alt="nu" width="60"></td>
       <td style="border-bottom-width:0;">
         <strong>Northwestern University</strong> <br> 09/2019 - 06/2022 <br> B.S. with honors in Computer Science, <em>summa cum laude</em>
       </td>
